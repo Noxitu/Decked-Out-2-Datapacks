@@ -1,4 +1,4 @@
-name: Deploy Page
+name: Build do2_refill.zip
 on: push
 jobs:
   deploy:
