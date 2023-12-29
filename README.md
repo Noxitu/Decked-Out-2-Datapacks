@@ -2,7 +2,9 @@
 
 ## Refill Datapack
 
-Adds an area with two right-clickable signs, that can be used for dungeon maintenence.
+Adds an area with two right-clickable signs, that can be used for dungeon maintenance. Area is located behind egg room in the lobby, in the area Tango used as exit into the Citatel interior.
+
+![Screenshot of the dungeon maintenance area](./docs/do2_refill_panel.jpg)
 
  * `[Fix Dungeon]` applies one-time fixes to dungeon, like filling some holes, fixing redstone or refilling completly empty droppers.
 
