@@ -332,14 +332,38 @@ data modify block -630 -20 2004 Items[].Count set value 64b
 ## Example Item: "Bounding Strides"
 data modify block -630 -20 2005 Items[].Count set value 64b
 
+## Example Item: "Brilliance"
+data modify block -644 -20 2000 Items[].Count set value 64b
+
+## Example Item: "Chill Step"
+data modify block -644 -20 2010 Items[].Count set value 64b
+
+## Example Item: "Cold Snap"
+data modify block -644 -20 2004 Items[].Count set value 64b
+
+## Example Item: "Deepfrost"
+data modify block -644 -20 2001 Items[].Count set value 64b
+
+## Example Item: "Dungeon Repairs"
+data modify block -644 -20 2012 Items[].Count set value 64b
+
+## Example Item: "Eerie Silence"
+data modify block -644 -20 2013 Items[].Count set value 64b
+
 ## Example Item: "Ember Seeker"
 data modify block -630 -20 1995 Items[].Count set value 64b
 
 ## Example Item: "Evasion"
 data modify block -630 -20 1998 Items[].Count set value 64b
 
+## Example Item: "Eyes on the Prize"
+data modify block -644 -20 2008 Items[].Count set value 64b
+
 ## Example Item: "Frost Focus"
 data modify block -630 -20 2001 Items[].Count set value 64b
+
+## Example Item: "Fuzzy Bunny Slippers"
+data modify block -644 -20 2002 Items[].Count set value 64b
 
 ## Example Item: "Loot and Scoot"
 data modify block -630 -20 2000 Items[].Count set value 64b
@@ -350,6 +374,9 @@ data modify block -630 -20 1996 Items[].Count set value 64b
 ## Example Item: "Nimble Looting"
 data modify block -630 -20 2010 Items[].Count set value 64b
 
+## Example Item: "Pirate's Booty"
+data modify block -644 -20 2005 Items[].Count set value 64b
+
 ## Example Item: "Quickstep"
 data modify block -630 -20 2012 Items[].Count set value 64b
 
@@ -359,11 +386,17 @@ data modify block -630 -20 2007 Items[].Count set value 64b
 ## Example Item: "Second Wind"
 data modify block -630 -20 2003 Items[].Count set value 64b
 
+## Example Item: "Silent Runner"
+data modify block -644 -20 2003 Items[].Count set value 64b
+
 ## Example Item: "Smash and Grab"
 data modify block -630 -20 2011 Items[].Count set value 64b
 
 ## Example Item: "Sneak"
 data modify block -630 -20 1992 Items[].Count set value 64b
+
+## Example Item: "Speed Runner"
+data modify block -644 -20 2009 Items[].Count set value 64b
 
 ## Example Item: "Sprint"
 data modify block -630 -20 2008 Items[].Count set value 64b
@@ -373,6 +406,9 @@ data modify block -630 -20 1993 Items[].Count set value 64b
 
 ## Example Item: "Suit Up"
 data modify block -630 -20 2013 Items[].Count set value 64b
+
+## Example Item: "Swagger"
+data modify block -644 -20 2011 Items[].Count set value 64b
 
 ## Example Item: "Tread Lightly"
 data modify block -630 -20 1999 Items[].Count set value 64b
@@ -425,6 +461,49 @@ data modify block -549 106 1978 Items[].Count set value 64b
 
 ## Example Item: "Manual Compass"
 data modify block -549 106 1979 Items[].Count set value 64b
+
+# Category "Crown Shop"
+## Example Item: "?"
+data modify block -496 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -497 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -498 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -499 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -500 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -501 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -502 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -503 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -504 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -505 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -506 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -507 104 1972 Items[].Count set value 64b
+
+## Example Item: "?"
+data modify block -508 104 1972 Items[].Count set value 64b
+
+## Example Item: "Frozen Shard"
+data modify block -509 104 1972 Items[].Count set value 64b
 
 # Category "Ember"
 ## Example Item: "Decked Out Frost Ember"
@@ -715,6 +794,14 @@ data modify block -652 1 1892 Items[].Count set value 64b
 ## Example Item: "Decked Out Frost Ember"
 data modify block -654 -9 1892 Items[].Count set value 64b
 
+# Category "Hideout Shulker"
+## Example Item: "Ember"
+data modify block -608 -57 1887 Items[].Count set value 64b
+
+# Category "Lobby Crown Dropper"
+## Example Item: "Lobby Crowns"
+data modify block -547 116 1965 Items[].Count set value 64b
+
 # Category "Other Items"
 ## Example Item: "The Bomb"
 data modify block -569 -48 1909 Items[].Count set value 64b
@@ -958,4 +1045,6 @@ data modify block -518 35 2002 Items[].Count set value 64b
 ## Example Item: "The Caves of Carnage Key"
 data modify block -519 53 2011 Items[].Count set value 64b
 
+
 tellraw @s {"text": "Refilling done."}
+

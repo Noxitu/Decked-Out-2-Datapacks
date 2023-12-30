@@ -11,6 +11,8 @@ setblock -484 58 2001 minecraft:polished_blackstone_slab[type=top]
 setblock -476 58 1989 minecraft:polished_blackstone_slab[type=top]
 setblock -476 58 1988 minecraft:polished_blackstone_slab[type=top]
 
+setblock -625 47 2012 minecraft:packed_ice
+
 # Level 2
 # Bridge trapdoor outside
 setblock -529 16 1986 minecraft:spruce_planks
@@ -46,3 +48,6 @@ setblock -609 -30 1913 minecraft:black_concrete
 
 # 1x1 hole from labirynth wall
 setblock -600 -48 1854 minecraft:cobbled_deepslate
+
+# Hole into redstone that lava can flow into
+setblock -597 -49 1898 minecraft:deepslate_bricks

@@ -2,16 +2,16 @@
     "display": {
         "icon": {
             "item": "minecraft:carved_pumpkin",
-			"nbt": "{CustomModelData: 46}"
+            "nbt": "{CustomModelData: 46}"
         },
-        "background":"minecraft:textures/block/blue_ice.png",
+        "background": "minecraft:textures/block/blue_ice.png",
         "title": "Dungeon Master",
         "description": "Visit dungeon master room behind egg display in Decked Out 2 lobby. Use [right click] on signs to trigger dungeon maintenence.",
         "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": true
-    },    
+    },
     "rewards": {
         "function": "do2_refill:init_dungeon_master"
     },

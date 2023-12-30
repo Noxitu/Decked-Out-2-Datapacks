@@ -15,3 +15,4 @@ fill -480 113 1968 -480 115 1971 minecraft:stone
 
 setblock -481 114 1969 minecraft:warped_wall_sign[facing=west]{front_text: {messages: ['""', '"Fix"', '"Dungeon"', '{"text": "", "clickEvent": {"action": "run_command", "value": "function do2_refill:fix"}}'], has_glowing_text:1b, color: "white"}}
 setblock -481 114 1970 minecraft:warped_wall_sign[facing=west]{front_text: {messages: ['""', '"Refill"', '"Droppers"', '{"text": "", "clickEvent": {"action": "run_command", "value": "function do2_refill:refill_droppers"}}'], has_glowing_text:1b, color: "white"}}
+setblock -481 114 1971 minecraft:warped_wall_sign[facing=west]{front_text: {messages: ['"Empty"', '"Waste"', '"Barrels"', '{"text": "", "clickEvent": {"action": "run_command", "value": "function do2_refill:empty_barrels"}}'], has_glowing_text:1b, color: "white"}}
