@@ -794,6 +794,10 @@ data modify block -652 1 1892 Items[].Count set value 64b
 ## Example Item: "Decked Out Frost Ember"
 data modify block -654 -9 1892 Items[].Count set value 64b
 
+# Category "Ember Shop Door Opening"
+## Example Item: "Other Items"
+data modify block -631 -15 1987 Items[].Count set value 64b
+
 # Category "Hideout Shulker"
 ## Example Item: "Ember"
 data modify block -608 -57 1887 Items[].Count set value 64b
