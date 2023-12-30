@@ -75,6 +75,15 @@ data modify block -590 -51 1899 Items[].Count set value 64b
 ## Example Item: "Gem of Greatness (40)"
 data modify block -601 -50 1890 Items[].Count set value 64b
 
+## Example Item: "Goggles of Symmetry (32)"
+data modify block -603 -19 1924 Items[].Count set value 64b
+
+## Example Item: "Goggles of Symmetry (32)"
+data modify block -613 -19 1889 Items[].Count set value 64b
+
+## Example Item: "Goggles of Symmetry (32)"
+data modify block -629 -19 1920 Items[].Count set value 64b
+
 ## Example Item: "Golden Eye (34)"
 data modify block -580 -11 1892 Items[].Count set value 64b
 
