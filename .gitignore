@@ -1,0 +1,8 @@
+__pycache__/
+_*.py
+/.vscode
+
+/Install-Packs.ps1
+
+# Work in Progress
+/Decked Out 2 Egg Hunt/Advancements Datapack
