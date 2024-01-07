@@ -1,0 +1,48 @@
+[
+  {
+    "counts": [36, 35, 19, 0, 51, 0, 0, 0, 0],
+    "description": "",
+    "items": ["shard", "shard", "shard", null, "shard", null, null, null, null],
+    "pos": [-509, 104, 1972]
+  },
+  {
+    "counts": [55, 59, 53, 40, 0, 0, 0, 33, 0],
+    "description": "",
+    "items": ["Pay to Win", "Pay to Win", "Pay to Win", "Pay to Win", null, null, null, "Pay to Win", null],
+    "pos": [-507, 104, 1972]
+  },
+  {
+    "counts": [57, 24, 54, 56, 24, 0, 0, 0, 40],
+    "description": "",
+    "items": ["Pork Chop Power", "Pork Chop Power", "Pork Chop Power", "Pork Chop Power", "Pork Chop Power", null, null, null, "Pork Chop Power"],
+    "pos": [-506, 104, 1972]
+  },
+  {
+    "counts": [48, 44, 45, 0, 0, 0, 0, 27, 0],
+    "description": "",
+    "items": ["Tactical Approach", "Tactical Approach", "Tactical Approach", null, null, null, null, "Tactical Approach", null],
+    "pos": [-505, 104, 1972]
+  },
+  {
+    "description": "Potions of Slowness",
+    "pos": [-505, 104, 1972]
+  },
+  {
+    "counts": [46, 44, 52, 39, 55, 44, 55, 51, 43],
+    "description": "",
+    "items": ["key2", "key2", "key4", "key2", "key4", "key3", "key3", "key3", "shard"],
+    "pos": [-503, 104, 1972]
+  },
+  {
+    "counts": [60, 0, 41, 44, 48, 18, 0, 44, 50],
+    "description": "",
+    "items": ["coin", null, "key2", "rusty", "victory_tome", "Moment of Clarity", null, "shard", "Tactical Approach"],
+    "pos": [-502, 104, 1972]
+  },
+  {
+    "counts": [15, 0, 0, 0, 0, 0, 0, 0, 0],
+    "description": "Dungeon Lackey",
+    "items": ["minecraft:carved_pumpkin", null, null, null, null, null, null, null, null],
+    "pos": [-497, 104, 1972]
+  }
+]

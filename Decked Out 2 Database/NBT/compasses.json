@@ -1,1683 +1,1683 @@
 {
-    "compass_001": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -560,
-                "Y": 46,
-                "Z": 2033
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":false,\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "bold": 0,
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"bold\":false,\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_002": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -534,
-                "Y": 44,
-                "Z": 2035
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_003": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -513,
-                "Y": 44,
-                "Z": 2028
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_004": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -558,
-                "Y": 49,
-                "Z": 2006
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_005": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -595,
-                "Y": 48,
-                "Z": 1967
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_006": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -575,
-                "Y": 53,
-                "Z": 1944
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_007": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -546,
-                "Y": 49,
-                "Z": 1972
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_008": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -501,
-                "Y": 42,
-                "Z": 2013
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_009": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -490,
-                "Y": 48,
-                "Z": 2022
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_010": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -548,
-                "Y": 36,
-                "Z": 1995
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_011": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -552,
-                "Y": 36,
-                "Z": 1984
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_012": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -519,
-                "Y": 33,
-                "Z": 1984
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_013": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -522,
-                "Y": 33,
-                "Z": 2000
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_014": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -550,
-                "Y": 43,
-                "Z": 1955
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_015": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -536,
-                "Y": 42,
-                "Z": 1964
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_016": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -526,
-                "Y": 43,
-                "Z": 1956
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "green"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_017": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -545,
-                "Y": 42,
-                "Z": 1940
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_018": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -527,
-                "Y": 49,
-                "Z": 1969
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_019": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -515,
-                "Y": 50,
-                "Z": 2006
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_020": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -541,
-                "Y": 49,
-                "Z": 2016
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_021": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -495,
-                "Y": 49,
-                "Z": 1995
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_022": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -503,
-                "Y": 49,
-                "Z": 1981
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_023": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -511,
-                "Y": 50,
-                "Z": 1956
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_024": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -507,
-                "Y": 49,
-                "Z": 1962
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
-                "color": "yellow"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_025": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -482,
-                "Y": 25,
-                "Z": 1992
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_026": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -482,
-                "Y": 16,
-                "Z": 2037
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_027": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -454,
-                "Y": 16,
-                "Z": 1979
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_028": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -473,
-                "Y": 14,
-                "Z": 1962
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_029": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -503,
-                "Y": 13,
-                "Z": 2035
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_030": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -487,
-                "Y": 18,
-                "Z": 2010
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_031": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -520,
-                "Y": 10,
-                "Z": 2027
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_032": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -488,
-                "Y": 13,
-                "Z": 2002
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "#fed83d"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_033": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -552,
-                "Y": 8,
-                "Z": 2024
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_034": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -537,
-                "Y": 14,
-                "Z": 2005
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_035": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -519,
-                "Y": 10,
-                "Z": 1980
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_036": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -517,
-                "Y": 9,
-                "Z": 1944
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_037": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -536,
-                "Y": 10,
-                "Z": 1939
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_038": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -571,
-                "Y": 6,
-                "Z": 1966
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_039": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -574,
-                "Y": 7,
-                "Z": 1944
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_040": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -588,
-                "Y": 11,
-                "Z": 1989
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_041": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -503,
-                "Y": 21,
-                "Z": 1958
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_042": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -547,
-                "Y": 8,
-                "Z": 1969
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_043": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -573,
-                "Y": 11,
-                "Z": 1994
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_044": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -571,
-                "Y": 10,
-                "Z": 2028
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_045": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -599,
-                "Y": 10,
-                "Z": 2033
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_046": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -575,
-                "Y": 7,
-                "Z": 2014
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_047": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -586,
-                "Y": -11,
-                "Z": 1917
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_048": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -600,
-                "Y": -1,
-                "Z": 1890
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
-                "color": "gold"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_049": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -623,
-                "Y": -1,
-                "Z": 1890
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_050": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -633,
-                "Y": -11,
-                "Z": 1890
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_051": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -651,
-                "Y": -1,
-                "Z": 1914
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_052": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -604,
-                "Y": -11,
-                "Z": 1912
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_053": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -627,
-                "Y": -21,
-                "Z": 1920
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_054": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -601,
-                "Y": -21,
-                "Z": 1924
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_055": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -613,
-                "Y": -21,
-                "Z": 1887
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_056": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -589,
-                "Y": -28,
-                "Z": 1896
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_057": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -582,
-                "Y": -21,
-                "Z": 1894
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_058": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -578,
-                "Y": -13,
-                "Z": 1892
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_059": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -596,
-                "Y": -9,
-                "Z": 1881
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_060": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -623,
-                "Y": -21,
-                "Z": 1888
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_061": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -646,
-                "Y": -21,
-                "Z": 1893
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_062": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -657,
-                "Y": -22,
-                "Z": 1922
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
-                "color": "#b02e26"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_063": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -637,
-                "Y": -53,
-                "Z": 1890
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "dark_red"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_064": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -622,
-                "Y": -53,
-                "Z": 1891
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "dark_red"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_065": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -599,
-                "Y": -51,
-                "Z": 1911
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_066": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -601,
-                "Y": -52,
-                "Z": 1888
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_067": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -588,
-                "Y": -53,
-                "Z": 1899
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_068": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -574,
-                "Y": -50,
-                "Z": 1908
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_069": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -623,
-                "Y": -54,
-                "Z": 1858
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_070": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -605,
-                "Y": -53,
-                "Z": 1863
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_071": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -602,
-                "Y": -53,
-                "Z": 1851
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_072": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -623,
-                "Y": -56,
-                "Z": 1844
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_073": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -599,
-                "Y": -53,
-                "Z": 1844
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_074": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -591,
-                "Y": -53,
-                "Z": 1868
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_075": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -567,
-                "Y": -53,
-                "Z": 1884
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_076": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -570,
-                "Y": -53,
-                "Z": 1878
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_077": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -638,
-                "Y": -58,
-                "Z": 1842
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_078": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -637,
-                "Y": -53,
-                "Z": 1877
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_079": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -590,
-                "Y": -53,
-                "Z": 1866
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
-    },
-    "compass_080": {
-        "id": "minecraft:compass",
-        "tag": {
-            "LodestoneDimension": "minecraft:overworld",
-            "LodestonePos": {
-                "X": -570,
-                "Y": -53,
-                "Z": 1855
-            },
-            "LodestoneTracked": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
-            }
-        }
+  "compass_001": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -560,
+        "Y": 46,
+        "Z": 2033
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":false,\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "bold": 0,
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"bold\":false,\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
     }
+  },
+  "compass_002": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -534,
+        "Y": 44,
+        "Z": 2035
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_003": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -513,
+        "Y": 44,
+        "Z": 2028
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_004": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -558,
+        "Y": 49,
+        "Z": 2006
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_005": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -595,
+        "Y": 48,
+        "Z": 1967
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_006": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -575,
+        "Y": 53,
+        "Z": 1944
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_007": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -546,
+        "Y": 49,
+        "Z": 1972
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_008": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -501,
+        "Y": 42,
+        "Z": 2013
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_009": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -490,
+        "Y": 48,
+        "Z": 2022
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_010": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -548,
+        "Y": 36,
+        "Z": 1995
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_011": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -552,
+        "Y": 36,
+        "Z": 1984
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_012": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -519,
+        "Y": 33,
+        "Z": 1984
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_013": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -522,
+        "Y": 33,
+        "Z": 2000
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_014": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -550,
+        "Y": 43,
+        "Z": 1955
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_015": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -536,
+        "Y": 42,
+        "Z": 1964
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_016": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -526,
+        "Y": 43,
+        "Z": 1956
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "green"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"green\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_017": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -545,
+        "Y": 42,
+        "Z": 1940
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_018": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -527,
+        "Y": 49,
+        "Z": 1969
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_019": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -515,
+        "Y": 50,
+        "Z": 2006
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_020": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -541,
+        "Y": 49,
+        "Z": 2016
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_021": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -495,
+        "Y": 49,
+        "Z": 1995
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_022": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -503,
+        "Y": 49,
+        "Z": 1981
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_023": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -511,
+        "Y": 50,
+        "Z": 1956
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_024": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -507,
+        "Y": 49,
+        "Z": 1962
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}",
+        "color": "yellow"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"yellow\",\"text\":\"\u2744\u2620 Level 1 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_025": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -482,
+        "Y": 25,
+        "Z": 1992
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_026": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -482,
+        "Y": 16,
+        "Z": 2037
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_027": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -454,
+        "Y": 16,
+        "Z": 1979
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_028": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -473,
+        "Y": 14,
+        "Z": 1962
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_029": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -503,
+        "Y": 13,
+        "Z": 2035
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_030": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -487,
+        "Y": 18,
+        "Z": 2010
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_031": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -520,
+        "Y": 10,
+        "Z": 2027
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_032": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -488,
+        "Y": 13,
+        "Z": 2002
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "#fed83d"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#FED83D\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_033": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -552,
+        "Y": 8,
+        "Z": 2024
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_034": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -537,
+        "Y": 14,
+        "Z": 2005
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_035": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -519,
+        "Y": 10,
+        "Z": 1980
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_036": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -517,
+        "Y": 9,
+        "Z": 1944
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_037": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -536,
+        "Y": 10,
+        "Z": 1939
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_038": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -571,
+        "Y": 6,
+        "Z": 1966
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_039": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -574,
+        "Y": 7,
+        "Z": 1944
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_040": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -588,
+        "Y": 11,
+        "Z": 1989
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_041": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -503,
+        "Y": 21,
+        "Z": 1958
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_042": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -547,
+        "Y": 8,
+        "Z": 1969
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_043": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -573,
+        "Y": 11,
+        "Z": 1994
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_044": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -571,
+        "Y": 10,
+        "Z": 2028
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_045": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -599,
+        "Y": 10,
+        "Z": 2033
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_046": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -575,
+        "Y": 7,
+        "Z": 2014
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 2 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_047": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -586,
+        "Y": -11,
+        "Z": 1917
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_048": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -600,
+        "Y": -1,
+        "Z": 1890
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
+        "color": "gold"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"gold\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_049": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -623,
+        "Y": -1,
+        "Z": 1890
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_050": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -633,
+        "Y": -11,
+        "Z": 1890
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_051": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -651,
+        "Y": -1,
+        "Z": 1914
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21c8 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_052": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -604,
+        "Y": -11,
+        "Z": 1912
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_053": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -627,
+        "Y": -21,
+        "Z": 1920
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_054": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -601,
+        "Y": -21,
+        "Z": 1924
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_055": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -613,
+        "Y": -21,
+        "Z": 1887
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_056": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -589,
+        "Y": -28,
+        "Z": 1896
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_057": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -582,
+        "Y": -21,
+        "Z": 1894
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_058": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -578,
+        "Y": -13,
+        "Z": 1892
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_059": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -596,
+        "Y": -9,
+        "Z": 1881
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_060": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -623,
+        "Y": -21,
+        "Z": 1888
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_061": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -646,
+        "Y": -21,
+        "Z": 1893
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u21ca Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_062": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -657,
+        "Y": -22,
+        "Z": 1922
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}",
+        "color": "#b02e26"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#B02E26\",\"text\":\"\u2744\u2620 Level 3\u2b82 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_063": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -637,
+        "Y": -53,
+        "Z": 1890
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "dark_red"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_064": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -622,
+        "Y": -53,
+        "Z": 1891
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "dark_red"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"dark_red\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_065": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -599,
+        "Y": -51,
+        "Z": 1911
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_066": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -601,
+        "Y": -52,
+        "Z": 1888
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_067": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -588,
+        "Y": -53,
+        "Z": 1899
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_068": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -574,
+        "Y": -50,
+        "Z": 1908
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_069": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -623,
+        "Y": -54,
+        "Z": 1858
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_070": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -605,
+        "Y": -53,
+        "Z": 1863
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_071": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -602,
+        "Y": -53,
+        "Z": 1851
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_072": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -623,
+        "Y": -56,
+        "Z": 1844
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_073": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -599,
+        "Y": -53,
+        "Z": 1844
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_074": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -591,
+        "Y": -53,
+        "Z": 1868
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_075": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -567,
+        "Y": -53,
+        "Z": 1884
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_076": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -570,
+        "Y": -53,
+        "Z": 1878
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_077": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -638,
+        "Y": -58,
+        "Z": 1842
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_078": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -637,
+        "Y": -53,
+        "Z": 1877
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_079": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -590,
+        "Y": -53,
+        "Z": 1866
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  },
+  "compass_080": {
+    "id": "minecraft:compass",
+    "tag": {
+      "LodestoneDimension": "minecraft:overworld",
+      "LodestonePos": {
+        "X": -570,
+        "Y": -53,
+        "Z": 1855
+      },
+      "LodestoneTracked": 1,
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Level 4 Artifact \u2620\u2744\"}"
+      }
+    }
+  }
 }

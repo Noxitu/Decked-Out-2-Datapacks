@@ -1,144 +1,141 @@
 {
-    "shard": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomRoleplayData": {
-                "_nbt_type": "b",
-                "value": 1
-            },
-            "NameFormat": {
-                "OriginalName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Frozen Shard \u2620\u2744\"}",
-                "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Frozen Shard \u2620\u2744\"}",
-                "color": "#3ab3da"
-            },
-            "CustomModelData": 7,
-            "display": {
-                "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Frozen Shard \u2620\u2744\"}"
-            }
-        }
-    },
-    "coin": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 1,
-            "CustomRoleplayData": 1,
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 Decked Out Coin \u2620\u2744\"}"
-            }
-        }
-    },
-    "crown": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 2,
-            "CustomRoleplayData": 1,
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 Decked Out Crown \u2620\u2744\"}"
-            }
-        }
-    },
-    "ember": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 3,
-            "CustomRoleplayData": 1,
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 Decked Out Frost Ember \u2620\u2744\"}"
-            }
-        }
-    },
-    "key2": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 201,
-            "CustomRoleplayData": 1,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 The Caves of Carnage Key \u2620\u2744\"}"
-            }
-        }
-    },
-    "key3": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 203,
-            "CustomRoleplayData": 1,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 The Black Mines Key \u2620\u2744\"}"
-            }
-        }
-    },
-    "key4": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 209,
-            "CustomRoleplayData": 1,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 The Burning Dark Key \u2620\u2744\"}"
-            }
-        }
-    },
-    "rusty": {
-        "id": "minecraft:iron_ingot",
-        "tag": {
-            "CustomModelData": 2,
-            "CustomRoleplayData": 1,
-            "display": {
-                "Name": "{\"text\":\"\u2744\u2620 Rusty Repair Kit \u2620\u2744\"}"
-            }
-        }
-    },
-    "pumpkin": {
-        "id": "minecraft:pumpkin",
-        "tag": {
-            "NameFormat": {
-                "ModifiedName": "{\"color\":\"dark_purple\",\"text\":\"\u2744\u2620 Halloween Pumpkin \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 Halloween Pumpkin \u2620\u2744\"}",
-                "color": "dark_purple"
-            },
-            "display": {
-                "Name": "{\"color\":\"dark_purple\",\"text\":\"\u2744\u2620 Halloween Pumpkin \u2620\u2744\"}"
-            }
-        }
-    },
-    "victory_tome": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 6,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":false,\"italic\":true,\"text\":\"\u2744\u2620 Victory Tome \u2620\u2744\"}",
-                "OriginalName": "{\"bold\":false,\"italic\":true,\"text\":\"\u2744\u2620 Victory Tome \u2620\u2744\"}",
-                "bold": 0,
-                "italic": 1
-            },
-            "display": {
-                "Name": "{\"bold\":false,\"italic\":true,\"text\":\"\u2744\u2620 Victory Tome \u2620\u2744\"}"
-            }
-        }
-    },
-    "bomb": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 208,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"dark_aqua\",\"text\":\"\u2744\u2620 The Bomb \u2620\u2744\"}",
-                "OriginalName": "{\"text\":\"\u2744\u2620 The Bomb \u2620\u2744\"}",
-                "bold": 1,
-                "color": "dark_aqua"
-            },
-            "display": {
-                "Name": "{\"bold\":true,\"color\":\"dark_aqua\",\"text\":\"\u2744\u2620 The Bomb \u2620\u2744\"}"
-            }
-        }
-    },
-    "map": {
-        "id": "minecraft:filled_map",
-        "tag": {
-            "map": 976
-        }
+  "shard": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "OriginalName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Frozen Shard \u2620\u2744\"}",
+        "ModifiedName": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Frozen Shard \u2620\u2744\"}",
+        "color": "#3ab3da"
+      },
+      "CustomModelData": 7,
+      "display": {
+        "Name": "{\"color\":\"#3AB3DA\",\"text\":\"\u2744\u2620 Frozen Shard \u2620\u2744\"}"
+      }
     }
+  },
+  "coin": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 1,
+      "CustomRoleplayData": true,
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 Decked Out Coin \u2620\u2744\"}"
+      }
+    }
+  },
+  "crown": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 2,
+      "CustomRoleplayData": true,
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 Decked Out Crown \u2620\u2744\"}"
+      }
+    }
+  },
+  "ember": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 3,
+      "CustomRoleplayData": true,
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 Decked Out Frost Ember \u2620\u2744\"}"
+      }
+    }
+  },
+  "key2": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 201,
+      "CustomRoleplayData": true,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 The Caves of Carnage Key \u2620\u2744\"}"
+      }
+    }
+  },
+  "key3": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 203,
+      "CustomRoleplayData": true,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 The Black Mines Key \u2620\u2744\"}"
+      }
+    }
+  },
+  "key4": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 209,
+      "CustomRoleplayData": true,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 The Burning Dark Key \u2620\u2744\"}"
+      }
+    }
+  },
+  "rusty": {
+    "id": "minecraft:iron_ingot",
+    "tag": {
+      "CustomModelData": 2,
+      "CustomRoleplayData": true,
+      "display": {
+        "Name": "{\"text\":\"\u2744\u2620 Rusty Repair Kit \u2620\u2744\"}"
+      }
+    }
+  },
+  "pumpkin": {
+    "id": "minecraft:pumpkin",
+    "tag": {
+      "NameFormat": {
+        "ModifiedName": "{\"color\":\"dark_purple\",\"text\":\"\u2744\u2620 Halloween Pumpkin \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 Halloween Pumpkin \u2620\u2744\"}",
+        "color": "dark_purple"
+      },
+      "display": {
+        "Name": "{\"color\":\"dark_purple\",\"text\":\"\u2744\u2620 Halloween Pumpkin \u2620\u2744\"}"
+      }
+    }
+  },
+  "victory_tome": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 6,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":false,\"italic\":true,\"text\":\"\u2744\u2620 Victory Tome \u2620\u2744\"}",
+        "OriginalName": "{\"bold\":false,\"italic\":true,\"text\":\"\u2744\u2620 Victory Tome \u2620\u2744\"}",
+        "bold": 0,
+        "italic": 1
+      },
+      "display": {
+        "Name": "{\"bold\":false,\"italic\":true,\"text\":\"\u2744\u2620 Victory Tome \u2620\u2744\"}"
+      }
+    }
+  },
+  "bomb": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 208,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"dark_aqua\",\"text\":\"\u2744\u2620 The Bomb \u2620\u2744\"}",
+        "OriginalName": "{\"text\":\"\u2744\u2620 The Bomb \u2620\u2744\"}",
+        "bold": 1,
+        "color": "dark_aqua"
+      },
+      "display": {
+        "Name": "{\"bold\":true,\"color\":\"dark_aqua\",\"text\":\"\u2744\u2620 The Bomb \u2620\u2744\"}"
+      }
+    }
+  },
+  "map": {
+    "id": "minecraft:filled_map",
+    "tag": {
+      "map": 976
+    }
+  }
 }

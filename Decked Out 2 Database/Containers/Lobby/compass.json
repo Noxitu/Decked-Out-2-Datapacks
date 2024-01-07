@@ -1,0 +1,72 @@
+[
+  {
+    "counts": [51, 50, 43, 48, 42, 40, 34, 42, 0],
+    "id": "compass_01",
+    "description": "",
+    "items": ["compass_001", "compass_002", "compass_003", "compass_004", "compass_005", "compass_006", "compass_007", "compass_008", null],
+    "pos": [-549, 106, 1979]
+  },
+  {
+    "counts": [44, 51, 36, 49, 50, 42, 43, 45, 0],
+    "id": "compass_02",
+    "description": "",
+    "items": ["compass_009", "compass_010", "compass_011", "compass_012", "compass_013", "compass_014", "compass_015", "compass_016", null],
+    "pos": [-549, 106, 1978]
+  },
+  {
+    "counts": [31, 24, 27, 25, 41, 23, 27, 28, 0],
+    "id": "compass_03",
+    "description": "",
+    "items": ["compass_017", "compass_018", "compass_019", "compass_020", "compass_021", "compass_022", "compass_023", "compass_024", null],
+    "pos": [-549, 106, 1977]
+  },
+  {
+    "counts": [32, 31, 19, 29, 32, 27, 31, 29, 0],
+    "id": "compass_04",
+    "description": "",
+    "items": ["compass_031", "compass_032", "compass_025", "compass_026", "compass_027", "compass_028", "compass_029", "compass_030", null],
+    "pos": [-549, 106, 1976]
+  },
+  {
+    "counts": [32, 33, 39, 30, 32, 39, 29, 34, 0],
+    "id": "compass_05",
+    "description": "",
+    "items": ["compass_039", "compass_040", "compass_033", "compass_034", "compass_035", "compass_036", "compass_037", "compass_038", null],
+    "pos": [-549, 106, 1975]
+  },
+  {
+    "counts": [34, 25, 33, 19, 29, 29, 29, 26, 0],
+    "id": "compass_06",
+    "description": "",
+    "items": ["compass_046", "compass_045", "compass_044", "compass_043", "compass_042", "compass_041", "compass_047", "compass_048", null],
+    "pos": [-549, 106, 1974]
+  },
+  {
+    "counts": [35, 39, 42, 28, 38, 35, 33, 25, 0],
+    "id": "compass_07",
+    "description": "",
+    "items": ["compass_054", "compass_053", "compass_049", "compass_052", "compass_051", "compass_050", "compass_056", "compass_055", null],
+    "pos": [-549, 106, 1973]
+  },
+  {
+    "counts": [26, 26, 35, 33, 29, 30, 16, 10, 0],
+    "id": "compass_08",
+    "description": "",
+    "items": ["compass_062", "compass_061", "compass_060", "compass_059", "compass_058", "compass_057", "compass_063", "compass_064", null],
+    "pos": [-549, 106, 1972]
+  },
+  {
+    "counts": [19, 23, 19, 25, 25, 26, 19, 23, 0],
+    "id": "compass_09",
+    "description": "",
+    "items": ["compass_065", "compass_066", "compass_067", "compass_068", "compass_069", "compass_070", "compass_071", "compass_072", null],
+    "pos": [-549, 106, 1971]
+  },
+  {
+    "counts": [18, 20, 15, 22, 22, 21, 16, 21, 0],
+    "id": "compass_10",
+    "description": "",
+    "items": ["compass_073", "compass_074", "compass_075", "compass_076", "compass_077", "compass_078", "compass_079", "compass_080", null],
+    "pos": [-549, 106, 1970]
+  }
+]

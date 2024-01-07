@@ -1,0 +1,9 @@
+[
+  {
+    "counts": [24, 20, 29, 17, 21, 19, 16, 18, 13],
+    "id": "crown_delivery",
+    "description": "",
+    "items": ["crown", "crown", "crown", "crown", "crown", "crown", "crown", "crown", "crown"],
+    "pos": [-547, 116, 1965]
+  }
+]

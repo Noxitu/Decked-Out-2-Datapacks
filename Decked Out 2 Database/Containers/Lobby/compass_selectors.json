@@ -1,0 +1,87 @@
+[
+  {
+    "counts": [46, 41, 45, 29, 39, 40, 43, 22, 0],
+    "id": "compass_selector_deepfrost",
+    "description": "",
+    "items": [
+      "compass_selector_09",
+      "compass_selector_09",
+      "compass_selector_09",
+      "compass_selector_09",
+      "compass_selector_10",
+      "compass_selector_10",
+      "compass_selector_10",
+      "compass_selector_10",
+      null
+    ],
+    "pos": [-561, 109, 1982]
+  },
+  {
+    "counts": [30, 45, 27, 0, 27, 28, 15, 14, 0],
+    "id": "compass_selector_deadly",
+    "description": "",
+    "items": [
+      "compass_selector_07",
+      "compass_selector_07",
+      "compass_selector_07",
+      null,
+      "compass_selector_08",
+      "compass_selector_08",
+      "compass_selector_08",
+      "compass_selector_08",
+      null
+    ],
+    "pos": [-560, 109, 1982]
+  },
+  {
+    "counts": [40, 49, 43, 16, 45, 39, 43, 15, 0],
+    "id": "compass_selector_hard",
+    "description": "",
+    "items": [
+      "compass_selector_05",
+      "compass_selector_05",
+      "compass_selector_05",
+      "compass_selector_05",
+      "compass_selector_06",
+      "compass_selector_06",
+      "compass_selector_06",
+      "compass_selector_06",
+      null
+    ],
+    "pos": [-559, 109, 1982]
+  },
+  {
+    "counts": [54, 50, 49, 35, 49, 53, 50, 32, 0],
+    "id": "compass_selector_medium",
+    "description": "",
+    "items": [
+      "compass_selector_03",
+      "compass_selector_03",
+      "compass_selector_03",
+      "compass_selector_03",
+      "compass_selector_04",
+      "compass_selector_04",
+      "compass_selector_04",
+      "compass_selector_04",
+      null
+    ],
+    "pos": [-558, 109, 1982]
+  },
+  {
+    "counts": [55, 58, 61, 38, 55, 58, 60, 38, 0],
+    "id": "compass_selector_easy",
+    "description": "",
+    "items": [
+      "compass_selector_01",
+      "compass_selector_01",
+      "compass_selector_01",
+      "compass_selector_01",
+      "compass_selector_02",
+      "compass_selector_02",
+      "compass_selector_02",
+      "compass_selector_02",
+      null
+    ],
+    "pos": [-557, 109, 1982]
+  }
+]

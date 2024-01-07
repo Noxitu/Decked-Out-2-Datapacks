@@ -1,92 +1,92 @@
 {
-    "compass_selector_01": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #1\"}"
-            }
-        }
-    },
-    "compass_selector_02": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #2\"}"
-            }
-        }
-    },
-    "compass_selector_03": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #3\"}"
-            }
-        }
-    },
-    "compass_selector_04": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #4\"}"
-            }
-        }
-    },
-    "compass_selector_05": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #5\"}"
-            }
-        }
-    },
-    "compass_selector_06": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #6\"}"
-            }
-        }
-    },
-    "compass_selector_07": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #7\"}"
-            }
-        }
-    },
-    "compass_selector_08": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #8\"}"
-            }
-        }
-    },
-    "compass_selector_09": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #9\"}"
-            }
-        }
-    },
-    "compass_selector_10": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "RepairCost": 0,
-            "display": {
-                "Name": "{\"text\":\"Dropper #10\"}"
-            }
-        }
+  "compass_selector_01": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #1\"}"
+      }
     }
+  },
+  "compass_selector_02": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #2\"}"
+      }
+    }
+  },
+  "compass_selector_03": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #3\"}"
+      }
+    }
+  },
+  "compass_selector_04": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #4\"}"
+      }
+    }
+  },
+  "compass_selector_05": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #5\"}"
+      }
+    }
+  },
+  "compass_selector_06": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #6\"}"
+      }
+    }
+  },
+  "compass_selector_07": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #7\"}"
+      }
+    }
+  },
+  "compass_selector_08": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #8\"}"
+      }
+    }
+  },
+  "compass_selector_09": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #9\"}"
+      }
+    }
+  },
+  "compass_selector_10": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "RepairCost": 0,
+      "display": {
+        "Name": "{\"text\":\"Dropper #10\"}"
+      }
+    }
+  }
 }

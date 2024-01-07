@@ -1,547 +1,521 @@
 {
-    "artifact_06": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 42,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hood of Aw'Yah (6)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hood of Aw'Yah (6)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Wearing this hood may cause\"}",
-                    "{\"text\":\"uncontrollable giggling.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hood of Aw'Yah (6)\"}"
-            }
-        }
-    },
-    "artifact_07": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 43,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Axe of the Screamin' Void (7)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Axe of the Screamin' Void (7)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"A legendary axe that never\"}",
-                    "{\"text\":\"stops shredding.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Axe of the Screamin' Void (7)\"}"
-            }
-        }
-    },
-    "artifact_08": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 17,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Multi-Grain Waffle (8)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Multi-Grain Waffle (8)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Often misspelled. Never duplicated.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Multi-Grain Waffle (8)\"}"
-            }
-        }
-    },
-    "artifact_09": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 33,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Shades of the Dog (9)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Shades of the Dog (9)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Eye protection worthy of a king.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Shades of the Dog (9)\"}"
-            }
-        }
-    },
-    "artifact_10": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 30,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Papa's Slippers (10)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Papa's Slippers (10)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Sweet faces to take you sweet places\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Papa's Slippers (10)\"}"
-            }
-        }
-    },
-    "artifact_11": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 28,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Jar of Speedy Slime (11)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Jar of Speedy Slime (11)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Drink to become an unkillable speedster!\"}",
-                    "{\"text\":\"*Infinite totems not included\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Jar of Speedy Slime (11)\"}"
-            }
-        }
-    },
-    "artifact_12": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 29,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Tome of the Hills (12)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Tome of the Hills (12)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"An infinite source of transparent wisdom.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Tome of the Hills (12)\"}"
-            }
-        }
-    },
-    "artifact_13": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 34,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Death Loop (13)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Death Loop (13)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Causes an neverending stream of comical deaths.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Death Loop (13)\"}"
-            }
-        }
-    },
-    "artifact_14": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 32,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pearl of Cleansing (14)\"}",
-                "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pearl of Cleansing (14)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Infused with strange alien powers,\"}",
-                    "{\"text\":\"this pearl can keep anything clean.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pearl of Cleansing (14)\"}"
-            }
-        }
-    },
-    "artifact_18": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 13,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Horn of the G.O.A.T. (18)\"}",
-                "OriginalName": "{\"text\":\"Horn of the G.O.A.T. (18)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Grants untold knowledge of\"}",
-                    "{\"text\":\"ancient, wondrous technologies\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Horn of the G.O.A.T. (18)\"}"
-            }
-        }
-    },
-    "artifact_19": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 12,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Chisel of the Undead Sculptress (19)\"}",
-                "OriginalName": "{\"text\":\"Chisel of the Undead Sculptress (19)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"This macabre device bestows unlimited creativity\"}",
-                    "{\"text\":\"and sarcasm to its wielder.  Mostly sarcasm.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Chisel of the Undead Sculptress (19)\"}"
-            }
-        }
-    },
-    "artifact_20": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 40,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Butcher's Apron (20)\"}",
-                "OriginalName": "{\"text\":\"Butcher's Apron (20)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"A bloody apron for the venerable gentleman.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Butcher's Apron (20)\"}"
-            }
-        }
-    },
-    "artifact_21": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 18,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hypnotic Bandana (21)\"}",
-                "OriginalName": "{\"text\":\"Hypnotic Bandana (21)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Gaze in Wonder. It seems to look back at you.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hypnotic Bandana (21)\"}"
-            }
-        }
-    },
-    "artifact_22": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 35,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Wand of Gorgeousness (22)\"}",
-                "OriginalName": "{\"text\":\"Wand of Gorgeousness (22)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Makes everything gorgeous.  Of course.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Wand of Gorgeousness (22)\"}"
-            }
-        }
-    },
-    "artifact_23": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 41,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Knight's Helm (23)\"}",
-                "OriginalName": "{\"text\":\"Knight's Helm (23)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Yep. It's knightly. Well and good.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Knight's Helm (23)\"}"
-            }
-        }
-    },
-    "artifact_24": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 20,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Bionic Eye of Doom (24)\"}",
-                "OriginalName": "{\"text\":\"Bionic Eye of Doom (24)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Also Omega. Probably Mega as well.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Bionic Eye of Doom (24)\"}"
-            }
-        }
-    },
-    "artifact_30": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 31,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Hidden Stache (30)\"}",
-                "OriginalName": "{\"text\":\"The Hidden Stache (30)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Hidden inside you'll find an assortment of spoons\"}",
-                    "{\"text\":\"and dapper upper lip hair.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Hidden Stache (30)\"}"
-            }
-        }
-    },
-    "artifact_32": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 15,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Goggles of Symmetry (32)\"}",
-                "OriginalName": "{\"text\":\"Goggles of Symmetry (32)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Grants deceptively overpowering combat prowess.\"}",
-                    "{\"text\":\"Also quite fashionable.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Goggles of Symmetry (32)\"}"
-            }
-        }
-    },
-    "artifact_34": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 19,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Golden Eye (34)\"}",
-                "OriginalName": "{\"text\":\"Golden Eye (34)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"iMazing \\\"I\\\" iNscribed iNside\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Golden Eye (34)\"}"
-            }
-        }
-    },
-    "artifact_36": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 10,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pocket Watch of Shreeping (36)\"}",
-                "OriginalName": "{\"text\":\"Pocket Watch of Shreeping (36)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Perfect sleeping every time.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pocket Watch of Shreeping (36)\"}"
-            }
-        }
-    },
-    "artifact_38": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 39,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"An Old Friend's Pickaxe (38)\"}",
-                "OriginalName": "{\"text\":\"An Old Friend's Pickaxe (38)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Worn down through years of use,\"}",
-                    "{\"text\":\"this artifact will never be forgotten.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"An Old Friend's Pickaxe (38)\"}"
-            }
-        }
-    },
-    "artifact_40": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 16,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Gem of Greatness (40)\"}",
-                "OriginalName": "{\"text\":\"Gem of Greatness (40)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"This gem truly is great.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Gem of Greatness (40)\"}"
-            }
-        }
-    },
-    "artifact_46": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 11,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"CF-135 (46)\"}",
-                "OriginalName": "{\"text\":\"CF-135 (46)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Let's GO!\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"CF-135 (46)\"}"
-            }
-        }
-    },
-    "artifact_48": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 44,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Staff of the Pink Shepherd (48)\"}",
-                "OriginalName": "{\"text\":\"Staff of the Pink Shepherd (48)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Honestly... Nobody really knows\"}",
-                    "{\"text\":\"what this thing does.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Staff of the Pink Shepherd (48)\"}"
-            }
-        }
-    },
-    "artifact_50": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 14,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Slab (50)\"}",
-                "OriginalName": "{\"text\":\"The Slab (50)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"The one that started it all. Accept no substitutes\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Slab (50)\"}"
-            }
-        }
-    },
-    "artifact_52": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 38,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Skadoodler (52)\"}",
-                "OriginalName": "{\"text\":\"The Skadoodler (52)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"A unique device capable of creating\"}",
-                    "{\"text\":\"unlimited -ificators. Most won't work.\"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Skadoodler (52)\"}"
-            }
-        }
-    },
-    "artifact_54": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 36,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Mug of the Dungeon Master (54)\"}",
-                "OriginalName": "{\"text\":\"Mug of the Dungeon Master (54)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"Drinking from this enlarged chalice is said to\"}",
-                    "{\"text\":\"cause confusion, stuttering, and\"}",
-                    "{\"text\":\"loss of perception. \"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Mug of the Dungeon Master (54)\"}"
-            }
-        }
-    },
-    "artifact_60": {
-        "id": "minecraft:iron_nugget",
-        "tag": {
-            "CustomModelData": 37,
-            "CustomRoleplayData": 1,
-            "NameFormat": {
-                "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Master's Key (60)\"}",
-                "OriginalName": "{\"text\":\"The Master's Key (60)\"}",
-                "bold": 1,
-                "color": "gold"
-            },
-            "display": {
-                "Lore": [
-                    "{\"text\":\"What could it possibly open? \"}"
-                ],
-                "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Master's Key (60)\"}"
-            }
-        }
+  "artifact_06": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 42,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hood of Aw'Yah (6)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hood of Aw'Yah (6)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Wearing this hood may cause\"}",
+          "{\"text\":\"uncontrollable giggling.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hood of Aw'Yah (6)\"}"
+      }
     }
+  },
+  "artifact_07": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 43,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Axe of the Screamin' Void (7)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Axe of the Screamin' Void (7)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"A legendary axe that never\"}",
+          "{\"text\":\"stops shredding.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Axe of the Screamin' Void (7)\"}"
+      }
+    }
+  },
+  "artifact_08": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 17,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Multi-Grain Waffle (8)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Multi-Grain Waffle (8)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Often misspelled. Never duplicated.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Multi-Grain Waffle (8)\"}"
+      }
+    }
+  },
+  "artifact_09": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 33,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Shades of the Dog (9)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Shades of the Dog (9)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Eye protection worthy of a king.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Shades of the Dog (9)\"}"
+      }
+    }
+  },
+  "artifact_10": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 30,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Papa's Slippers (10)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Papa's Slippers (10)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Sweet faces to take you sweet places\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Papa's Slippers (10)\"}"
+      }
+    }
+  },
+  "artifact_11": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 28,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Jar of Speedy Slime (11)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Jar of Speedy Slime (11)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Drink to become an unkillable speedster!\"}",
+          "{\"text\":\"*Infinite totems not included\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Jar of Speedy Slime (11)\"}"
+      }
+    }
+  },
+  "artifact_12": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 29,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Tome of the Hills (12)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Tome of the Hills (12)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"An infinite source of transparent wisdom.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Tome of the Hills (12)\"}"
+      }
+    }
+  },
+  "artifact_13": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 34,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Death Loop (13)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Death Loop (13)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Causes an neverending stream of comical deaths.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Death Loop (13)\"}"
+      }
+    }
+  },
+  "artifact_14": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 32,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pearl of Cleansing (14)\"}",
+        "OriginalName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pearl of Cleansing (14)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Infused with strange alien powers,\"}",
+          "{\"text\":\"this pearl can keep anything clean.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pearl of Cleansing (14)\"}"
+      }
+    }
+  },
+  "artifact_18": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 13,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Horn of the G.O.A.T. (18)\"}",
+        "OriginalName": "{\"text\":\"Horn of the G.O.A.T. (18)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Grants untold knowledge of\"}",
+          "{\"text\":\"ancient, wondrous technologies\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Horn of the G.O.A.T. (18)\"}"
+      }
+    }
+  },
+  "artifact_19": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 12,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Chisel of the Undead Sculptress (19)\"}",
+        "OriginalName": "{\"text\":\"Chisel of the Undead Sculptress (19)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"This macabre device bestows unlimited creativity\"}",
+          "{\"text\":\"and sarcasm to its wielder.  Mostly sarcasm.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Chisel of the Undead Sculptress (19)\"}"
+      }
+    }
+  },
+  "artifact_20": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 40,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Butcher's Apron (20)\"}",
+        "OriginalName": "{\"text\":\"Butcher's Apron (20)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"A bloody apron for the venerable gentleman.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Butcher's Apron (20)\"}"
+      }
+    }
+  },
+  "artifact_21": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 18,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hypnotic Bandana (21)\"}",
+        "OriginalName": "{\"text\":\"Hypnotic Bandana (21)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Gaze in Wonder. It seems to look back at you.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Hypnotic Bandana (21)\"}"
+      }
+    }
+  },
+  "artifact_22": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 35,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Wand of Gorgeousness (22)\"}",
+        "OriginalName": "{\"text\":\"Wand of Gorgeousness (22)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Makes everything gorgeous.  Of course.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Wand of Gorgeousness (22)\"}"
+      }
+    }
+  },
+  "artifact_23": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 41,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Knight's Helm (23)\"}",
+        "OriginalName": "{\"text\":\"Knight's Helm (23)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Yep. It's knightly. Well and good.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Knight's Helm (23)\"}"
+      }
+    }
+  },
+  "artifact_24": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 20,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Bionic Eye of Doom (24)\"}",
+        "OriginalName": "{\"text\":\"Bionic Eye of Doom (24)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Also Omega. Probably Mega as well.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Bionic Eye of Doom (24)\"}"
+      }
+    }
+  },
+  "artifact_30": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 31,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Hidden Stache (30)\"}",
+        "OriginalName": "{\"text\":\"The Hidden Stache (30)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Hidden inside you'll find an assortment of spoons\"}",
+          "{\"text\":\"and dapper upper lip hair.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Hidden Stache (30)\"}"
+      }
+    }
+  },
+  "artifact_32": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 15,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Goggles of Symmetry (32)\"}",
+        "OriginalName": "{\"text\":\"Goggles of Symmetry (32)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Grants deceptively overpowering combat prowess.\"}",
+          "{\"text\":\"Also quite fashionable.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Goggles of Symmetry (32)\"}"
+      }
+    }
+  },
+  "artifact_34": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 19,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Golden Eye (34)\"}",
+        "OriginalName": "{\"text\":\"Golden Eye (34)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"iMazing \\\"I\\\" iNscribed iNside\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Golden Eye (34)\"}"
+      }
+    }
+  },
+  "artifact_36": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 10,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pocket Watch of Shreeping (36)\"}",
+        "OriginalName": "{\"text\":\"Pocket Watch of Shreeping (36)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Perfect sleeping every time.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Pocket Watch of Shreeping (36)\"}"
+      }
+    }
+  },
+  "artifact_38": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 39,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"An Old Friend's Pickaxe (38)\"}",
+        "OriginalName": "{\"text\":\"An Old Friend's Pickaxe (38)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Worn down through years of use,\"}",
+          "{\"text\":\"this artifact will never be forgotten.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"An Old Friend's Pickaxe (38)\"}"
+      }
+    }
+  },
+  "artifact_40": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 16,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Gem of Greatness (40)\"}",
+        "OriginalName": "{\"text\":\"Gem of Greatness (40)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"This gem truly is great.\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Gem of Greatness (40)\"}"
+      }
+    }
+  },
+  "artifact_46": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 11,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"CF-135 (46)\"}",
+        "OriginalName": "{\"text\":\"CF-135 (46)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"Let's GO!\"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"CF-135 (46)\"}"
+      }
+    }
+  },
+  "artifact_48": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 44,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Staff of the Pink Shepherd (48)\"}",
+        "OriginalName": "{\"text\":\"Staff of the Pink Shepherd (48)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Honestly... Nobody really knows\"}",
+          "{\"text\":\"what this thing does.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Staff of the Pink Shepherd (48)\"}"
+      }
+    }
+  },
+  "artifact_50": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 14,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Slab (50)\"}",
+        "OriginalName": "{\"text\":\"The Slab (50)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"The one that started it all. Accept no substitutes\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Slab (50)\"}"
+      }
+    }
+  },
+  "artifact_52": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 38,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Skadoodler (52)\"}",
+        "OriginalName": "{\"text\":\"The Skadoodler (52)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"A unique device capable of creating\"}",
+          "{\"text\":\"unlimited -ificators. Most won't work.\"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Skadoodler (52)\"}"
+      }
+    }
+  },
+  "artifact_54": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 36,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Mug of the Dungeon Master (54)\"}",
+        "OriginalName": "{\"text\":\"Mug of the Dungeon Master (54)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": [
+          "{\"text\":\"Drinking from this enlarged chalice is said to\"}",
+          "{\"text\":\"cause confusion, stuttering, and\"}",
+          "{\"text\":\"loss of perception. \"}"
+        ],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"Mug of the Dungeon Master (54)\"}"
+      }
+    }
+  },
+  "artifact_60": {
+    "id": "minecraft:iron_nugget",
+    "tag": {
+      "CustomModelData": 37,
+      "CustomRoleplayData": true,
+      "NameFormat": {
+        "ModifiedName": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Master's Key (60)\"}",
+        "OriginalName": "{\"text\":\"The Master's Key (60)\"}",
+        "bold": 1,
+        "color": "gold"
+      },
+      "display": {
+        "Lore": ["{\"text\":\"What could it possibly open? \"}"],
+        "Name": "{\"bold\":true,\"color\":\"gold\",\"text\":\"The Master's Key (60)\"}"
+      }
+    }
+  }
 }
