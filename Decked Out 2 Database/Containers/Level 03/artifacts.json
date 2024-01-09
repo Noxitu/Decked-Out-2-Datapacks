@@ -1,0 +1,563 @@
+[
+    {
+        "pos": [
+            -613,
+            -19,
+            1889
+        ],
+        "description": "Dropper_#124",
+        "items": [
+            "artifact_32",
+            "artifact_32",
+            "artifact_34",
+            "artifact_36",
+            "artifact_46",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            12,
+            14,
+            5,
+            12,
+            15,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -623,
+            -19,
+            1890
+        ],
+        "description": "Dropper_#125",
+        "items": [
+            "artifact_36",
+            "artifact_36",
+            "artifact_38",
+            "artifact_40",
+            "artifact_50",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            8,
+            15,
+            11,
+            11,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -648,
+            -19,
+            1893
+        ],
+        "description": "Dropper_#126",
+        "items": [
+            "artifact_36",
+            "artifact_36",
+            "artifact_40",
+            "artifact_38",
+            "artifact_50",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            8,
+            9,
+            10,
+            11,
+            14,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -582,
+            -19,
+            1896
+        ],
+        "description": "Dropper_#127",
+        "items": [
+            "artifact_34",
+            "artifact_34",
+            "artifact_36",
+            "artifact_38",
+            "artifact_48",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            12,
+            12,
+            9,
+            14,
+            13,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -629,
+            -19,
+            1920
+        ],
+        "description": "Dropper_#130",
+        "items": [
+            "artifact_32",
+            "artifact_32",
+            "artifact_34",
+            "artifact_36",
+            "artifact_46",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            13,
+            12,
+            13,
+            10,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -603,
+            -19,
+            1924
+        ],
+        "description": "Dropper_#133",
+        "items": [
+            "artifact_32",
+            "artifact_32",
+            "artifact_34",
+            "artifact_46",
+            "artifact_36",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            9,
+            12,
+            14,
+            7,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -659,
+            -14,
+            1922
+        ],
+        "description": "Dropper_#166",
+        "items": [
+            "artifact_38",
+            "artifact_38",
+            "artifact_46",
+            "artifact_40",
+            "artifact_52",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            12,
+            14,
+            8,
+            10,
+            14,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -580,
+            -11,
+            1892
+        ],
+        "description": "Dropper_#169",
+        "items": [
+            "artifact_34",
+            "artifact_34",
+            "artifact_36",
+            "artifact_38",
+            "artifact_48",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            14,
+            12,
+            10,
+            11,
+            9,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -635,
+            -9,
+            1890
+        ],
+        "description": "Dropper_#172",
+        "items": [
+            "artifact_30",
+            "artifact_30",
+            "artifact_32",
+            "artifact_34",
+            "artifact_40",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            13,
+            12,
+            8,
+            15,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -604,
+            -9,
+            1914
+        ],
+        "description": "Dropper_#175",
+        "items": [
+            "artifact_30",
+            "artifact_30",
+            "artifact_32",
+            "artifact_34",
+            "artifact_40",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            6,
+            12,
+            12,
+            8,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -588,
+            -9,
+            1917
+        ],
+        "description": "Dropper_#176",
+        "items": [
+            "artifact_24",
+            "artifact_24",
+            "artifact_30",
+            "artifact_32",
+            "artifact_38",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            13,
+            14,
+            11,
+            14,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -598,
+            -7,
+            1881
+        ],
+        "description": "Dropper_#181",
+        "items": [
+            "artifact_36",
+            "artifact_36",
+            "artifact_40",
+            "artifact_38",
+            "artifact_50",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            16,
+            11,
+            11,
+            8,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -598,
+            1,
+            1890
+        ],
+        "description": "Dropper_#184",
+        "items": [
+            "artifact_24",
+            "artifact_24",
+            "artifact_30",
+            "artifact_32",
+            "artifact_38",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            12,
+            15,
+            12,
+            12,
+            12,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -623,
+            1,
+            1892
+        ],
+        "description": "Dropper_#186",
+        "items": [
+            "artifact_24",
+            "artifact_24",
+            "artifact_32",
+            "artifact_30",
+            "artifact_38",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            16,
+            15,
+            14,
+            12,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -651,
+            1,
+            1916
+        ],
+        "description": "Dropper_#190",
+        "items": [
+            "artifact_30",
+            "artifact_30",
+            "artifact_32",
+            "artifact_40",
+            "artifact_34",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            15,
+            13,
+            11,
+            12,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -573,
+            8,
+            1966
+        ],
+        "description": "Dropper_#201",
+        "items": [
+            "artifact_21",
+            "artifact_21",
+            "artifact_22",
+            "artifact_23",
+            "artifact_32",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            14,
+            12,
+            13,
+            9,
+            13,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    },
+    {
+        "pos": [
+            -572,
+            9,
+            1944
+        ],
+        "description": "Dropper_#205",
+        "items": [
+            "artifact_21",
+            "artifact_21",
+            "artifact_22",
+            "artifact_23",
+            "artifact_32",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            11,
+            11,
+            13,
+            8,
+            15,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "artifacts"
+        ]
+    }
+]

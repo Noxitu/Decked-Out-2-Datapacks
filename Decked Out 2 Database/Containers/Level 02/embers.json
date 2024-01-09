@@ -1,0 +1,992 @@
+[
+    {
+        "pos": [
+            -569,
+            8,
+            1964
+        ],
+        "description": "Ember @ dripstone cave, witch cave",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            48,
+            54,
+            51,
+            46,
+            49,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -508,
+            9,
+            1951
+        ],
+        "description": "Ember @ after chains",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            54,
+            50,
+            51,
+            48,
+            29,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -582,
+            9,
+            1955
+        ],
+        "description": "Ember @ dripstone cave, near level 3",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            58,
+            51,
+            52,
+            52,
+            53,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -553,
+            10,
+            2037
+        ],
+        "description": "Ember @ crystal",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            55,
+            54,
+            54,
+            53,
+            53,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -548,
+            11,
+            1976
+        ],
+        "description": "Ember @ cove, right spiral cave",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            49,
+            53,
+            48,
+            56,
+            50,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -598,
+            11,
+            1989
+        ],
+        "description": "Ember @ cove, back cave",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            48,
+            49,
+            52,
+            50,
+            50,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -542,
+            11,
+            1998
+        ],
+        "description": "Ember @ cove, near rusty balcony",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            51,
+            50,
+            53,
+            52,
+            47,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -573,
+            11,
+            2007
+        ],
+        "description": "Ember @ ship, flooded room",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            48,
+            53,
+            51,
+            52,
+            50,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -489,
+            11,
+            2007
+        ],
+        "description": "Ember @ ravager den",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            49,
+            46,
+            45,
+            50,
+            39,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -589,
+            11,
+            2032
+        ],
+        "description": "Ember @ cove, left cave",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            54,
+            46,
+            53,
+            54,
+            44,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -526,
+            12,
+            1941
+        ],
+        "description": "Ember @ pearl area",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            45,
+            49,
+            45,
+            52,
+            56,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -599,
+            12,
+            2009
+        ],
+        "description": "Ember @ cove, left back cave (on the right)",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            54,
+            57,
+            50,
+            54,
+            46,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -528,
+            12,
+            2032
+        ],
+        "description": "Ember @ near halloween hut",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            51,
+            48,
+            49,
+            57,
+            55,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -584,
+            13,
+            1934
+        ],
+        "description": "Dropper_#243",
+        "items": [
+            "ember",
+            "ember",
+            null,
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            0,
+            64,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -582,
+            13,
+            1934
+        ],
+        "description": "Dropper_#244",
+        "items": [
+            "ember",
+            "ember",
+            null,
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            63,
+            63,
+            0,
+            64,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -584,
+            13,
+            1935
+        ],
+        "description": "Dropper_#245",
+        "items": [
+            "ember",
+            "ember",
+            null,
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            63,
+            0,
+            64,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -582,
+            13,
+            1935
+        ],
+        "description": "Dropper_#246",
+        "items": [
+            "ember",
+            "ember",
+            null,
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            63,
+            64,
+            0,
+            64,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -584,
+            13,
+            1936
+        ],
+        "description": "Dropper_#247",
+        "items": [
+            "ember",
+            "ember",
+            null,
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            63,
+            0,
+            64,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -582,
+            13,
+            1936
+        ],
+        "description": "Dropper_#248",
+        "items": [
+            "ember",
+            "ember",
+            null,
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            63,
+            64,
+            0,
+            64,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -584,
+            13,
+            1937
+        ],
+        "description": "Dropper_#249",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            32,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -582,
+            13,
+            1937
+        ],
+        "description": "Dropper_#250",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            26,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -509,
+            14,
+            2033
+        ],
+        "description": "Ember @ mushrooms",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            46,
+            47,
+            50,
+            55,
+            56,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -496,
+            15,
+            1999
+        ],
+        "description": "Ember @ below balcony",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            53,
+            55,
+            49,
+            51,
+            51,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -501,
+            16,
+            1972
+        ],
+        "description": "Ember @ before bridge",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            50,
+            48,
+            50,
+            55,
+            51,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -531,
+            16,
+            1989
+        ],
+        "description": "Ember @ after bridge",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            56,
+            53,
+            49,
+            54,
+            48,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -478,
+            19,
+            2009
+        ],
+        "description": "Ember @ balcony",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            53,
+            44,
+            48,
+            49,
+            54,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -485,
+            31,
+            1962
+        ],
+        "description": "Ember @ spiders, right corner",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            56,
+            54,
+            51,
+            46,
+            49,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -502,
+            31,
+            1975
+        ],
+        "description": "Ember @ spiders, left corner",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            45,
+            51,
+            50,
+            53,
+            25,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -573,
+            36,
+            1998
+        ],
+        "description": "Ember @ ship, ceiling",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            56,
+            53,
+            54,
+            51,
+            53,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -565,
+            36,
+            1999
+        ],
+        "description": "Ember @ ship, ceiling",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            50,
+            58,
+            57,
+            58,
+            51,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    }
+]

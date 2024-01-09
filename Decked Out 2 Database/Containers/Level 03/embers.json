@@ -1,0 +1,464 @@
+[
+    {
+        "pos": [
+            -640,
+            -19,
+            1889
+        ],
+        "description": "Dropper_#123",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            63,
+            64,
+            64,
+            64,
+            64,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -609,
+            -19,
+            1919
+        ],
+        "description": "Dropper_#128",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            61,
+            43,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -642,
+            -19,
+            1921
+        ],
+        "description": "Dropper_#131",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            63,
+            64,
+            64,
+            63,
+            64,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -584,
+            -17,
+            1927
+        ],
+        "description": "Dropper_#160",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            58,
+            14,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -602,
+            -9,
+            1885
+        ],
+        "description": "Dropper_#171",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            63,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -654,
+            -9,
+            1892
+        ],
+        "description": "Dropper_#174",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -585,
+            -9,
+            1920
+        ],
+        "description": "Dropper_#178",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            63,
+            63,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -623,
+            -9,
+            1924
+        ],
+        "description": "Dropper_#180",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            47,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -586,
+            1,
+            1888
+        ],
+        "description": "Dropper_#183",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -652,
+            1,
+            1892
+        ],
+        "description": "Dropper_#185",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            61,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -591,
+            1,
+            1901
+        ],
+        "description": "Dropper_#188",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            63,
+            64,
+            64,
+            64,
+            64,
+            63,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -644,
+            1,
+            1921
+        ],
+        "description": "Dropper_#194",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            63,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -628,
+            1,
+            1921
+        ],
+        "description": "Dropper_#195",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    },
+    {
+        "pos": [
+            -606,
+            1,
+            1921
+        ],
+        "description": "Dropper_#196",
+        "items": [
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            "ember",
+            null,
+            null,
+            null
+        ],
+        "counts": [
+            64,
+            64,
+            64,
+            64,
+            63,
+            64,
+            0,
+            0,
+            0
+        ],
+        "tags": [
+            "embers"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Card shop dropper for keeping door open for 5 minutes.",
+    "pos": [-631, -15, 1987]
+  },
+  {
+    "description": "Dungeon reset dropper after player death.",
+    "pos": [-607, 122, 1948]
+  },
+  {
+    "description": "Dungeon reset waste chest after player death.",
+    "tags": ["waste"],
+    "pos": [-605, 37, 1948]
+  }
+]

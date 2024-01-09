@@ -1,0 +1,16 @@
+[
+  {
+    "pos": [-579, -37, 1835],
+    "description": "Ember @ The Warden Shrine",
+    "items": ["ember", "ember", "ember", null, null, null, null, null, null],
+    "counts": [64, 64, 49, 0, 0, 0, 0, 0, 0],
+    "tags": ["embers"]
+  },
+  {
+    "pos": [-608, -57, 1887],
+    "description": "Ember @ The Hideout",
+    "items": ["ember", "ember", "ember", "ember", "ember", null, null, null, null],
+    "counts": [50, 64, 64, 64, 64, 0, 0, 0, 0],
+    "tags": ["embers"]
+  }
+]
