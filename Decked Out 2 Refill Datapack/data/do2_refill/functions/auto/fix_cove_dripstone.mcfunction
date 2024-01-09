@@ -12,7 +12,7 @@ setblock -553 14 1960 minecraft:pointed_dripstone[vertical_direction=up,thicknes
 setblock -553 15 1960 minecraft:pointed_dripstone[vertical_direction=up,thickness=frustum]
 setblock -553 16 1960 minecraft:pointed_dripstone[vertical_direction=up,thickness=tip_merge]
 setblock -553 20 1960 minecraft:pointed_dripstone[vertical_direction=down,thickness=base]
-fill -553 19 1960 -553 19 1960 minecraft:pointed_dripstone[vertical_direction=down,thickness=middle]
+setblock -553 19 1960 minecraft:pointed_dripstone[vertical_direction=down,thickness=middle]
 setblock -553 18 1960 minecraft:pointed_dripstone[vertical_direction=down,thickness=frustum]
 setblock -553 17 1960 minecraft:pointed_dripstone[vertical_direction=down,thickness=tip_merge]
 setblock -553 18 1962 minecraft:pointed_dripstone[vertical_direction=down,thickness=frustum]
@@ -43,7 +43,7 @@ setblock -549 15 1961 minecraft:pointed_dripstone[vertical_direction=up,thicknes
 setblock -549 16 1961 minecraft:pointed_dripstone[vertical_direction=up,thickness=frustum]
 setblock -549 17 1961 minecraft:pointed_dripstone[vertical_direction=up,thickness=tip_merge]
 setblock -549 21 1961 minecraft:pointed_dripstone[vertical_direction=down,thickness=base]
-fill -549 20 1961 -549 20 1961 minecraft:pointed_dripstone[vertical_direction=down,thickness=middle]
+setblock -549 20 1961 minecraft:pointed_dripstone[vertical_direction=down,thickness=middle]
 setblock -549 19 1961 minecraft:pointed_dripstone[vertical_direction=down,thickness=frustum]
 setblock -549 18 1961 minecraft:pointed_dripstone[vertical_direction=down,thickness=tip_merge]
 

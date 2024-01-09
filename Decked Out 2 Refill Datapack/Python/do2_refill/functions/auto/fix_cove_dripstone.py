@@ -34,8 +34,11 @@ def _fill(x, z, ys, direction, merge):
     if size >= 3:
         yield f"""setblock {x} {y2} {z} {dripstone("base")}"""
 
-    if size >= 4:
+    if size > 4:
         yield f"""fill {x} {y1+2*dy} {z} {x} {y2-dy} {z} {dripstone("middle")}"""
+
+    if size == 4:
+        yield f"""setblock {x} {y1+2*dy} {z} {dripstone("middle")}"""
     
     if size >= 2:
         yield f"""setblock {x} {y1+dy} {z} {dripstone("frustum")}"""
