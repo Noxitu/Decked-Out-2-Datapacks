@@ -1,0 +1,5 @@
+# _ prefix used for untracked files
+_*
+
+# Dont push assets for now
+assets/
