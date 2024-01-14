@@ -1,0 +1,52 @@
+[
+    {
+        "id": "bfa53280-e3e8-404a-a80b-a666c46cbead",
+        "name": "Stumbles",
+        "zone": "level01.enterance_zone"
+    },
+    {
+        "id": "2819cc7f-d393-4834-a3e3-1abc061b41a5",
+        "name": "Laser Beams!",
+        "zone": "level01.enterance_zone"
+    },
+    {
+        "id": "9ca9f18c-7091-41c2-9d77-d1835f7f151a",
+        "name": "Lasagna",
+        "zone": "level01.river_zone"
+    },
+    {
+        "id": "4ce8721e-9cd3-4418-b5ea-bb353a4a385f",
+        "name": "Hot Breath",
+        "zone": "level01.river_zone"
+    },
+    {
+        "id": "2d1d0953-65b8-4e9f-9248-a9494fe37776",
+        "name": "Mr. Poopy Head",
+        "zone": "level01.crypt_zone"
+    },
+    {
+        "id": "42466611-9342-4403-85e5-7e17c776709f",
+        "name": "Nugget",
+        "zone": "level02.mushrooms_zone"
+    },
+    {
+        "id": "d8407ff3-4d69-4c4e-8476-3f1f31ca14f7",
+        "name": "Skadoodles",
+        "zone": "level02.mushrooms_zone"
+    },
+    {
+        "id": "42e9a371-bb2c-440e-8c97-62ea813b1053",
+        "name": "Sir Fluffykins of the Dungeon",
+        "zone": "level02.bridge_zone"
+    },
+    {
+        "id": "b34cdde3-a197-49c0-b86a-9339d6443ee6",
+        "name": "big butts and I cannot lie",
+        "zone": "level02.bridge_zone"
+    },
+    {
+        "id": "6c3eed40-21e3-48d9-821f-052453ca1db3",
+        "name": "Snausages",
+        "zone": "level02.red_tomb_zone"
+    }
+]

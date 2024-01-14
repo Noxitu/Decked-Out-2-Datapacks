@@ -1,0 +1,35 @@
+[
+    {
+        "id": "49f94c56-cb12-45f8-89c3-e955f96eed43",
+        "name": "Pain",
+        "zone": "level03"
+    },
+    {
+        "id": "775f03b0-edd5-43fe-9767-0584ea4b2e70",
+        "name": "Panic",
+        "zone": "level03"
+    },
+    {
+        "id": "998d4bdb-cbef-4b26-8b4d-c7e15a640155",
+        "name": "Pancakes",
+        "zone": "level03"
+    },
+    {
+        "id": "d735bdd3-a8a3-4e09-852d-62f1a821e7ba",
+        "name": "Pinky",
+        "name_color": "light_purple",
+        "zone": "level04.enterance_zone"
+    },
+    {
+        "id": "910f95ee-acb2-4935-b161-10e97f272fca",
+        "name": "Blinky",
+        "name_color": "red",
+        "zone": "level04.north_zone"
+    },
+    {
+        "id": "857723e4-b211-443a-b0f8-6c775e8676f7",
+        "name": "Inky",
+        "name_color": "aqua",
+        "zone": "level04.shrine_zone"
+    }
+]

@@ -2,6 +2,7 @@
   "values": [
     "do2_refill:auto/fix_card_counter",
     "do2_refill:auto/fix_cove_dripstone",
-    "do2_refill:auto/regrow_berry_bushes"
+    "do2_refill:auto/regrow_berry_bushes",
+    "do2_refill:auto/teleport_mobs"
   ]
 }
