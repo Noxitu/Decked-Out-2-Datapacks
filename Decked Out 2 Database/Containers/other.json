@@ -11,5 +11,18 @@
     "description": "Dungeon reset waste chest after player death.",
     "tags": ["waste"],
     "pos": [-605, 37, 1948]
+  },
+  {
+    "pos": [-510, 37, 1992],
+    "description": "Jump Boost Key in Library - uses dropper to do a 5m cooldown for that button"
+  },
+  {
+    "pos": [-521, 11, 2043],
+    "description": "Halloween Hut 5m cooldown for enterance sound."
+  },
+  {
+    "pos": [-520, 11, 2043],
+    "description": "Halloween Hut 5m cooldown for enterance sound. (Backlog barrel)"
   }
 ]
+

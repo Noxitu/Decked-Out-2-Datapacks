@@ -22,5 +22,15 @@
   { "pos": [-645, 3, 1905], "description": "Black Mines - TNT Shaft" },
   { "pos": [-657, -6, 1904], "description": "Black Mines - Back Tower" },
   { "pos": [-654, 4, 1919], "description": "Black Mines - Back Looparound" },
-  { "pos": [-583, -15, 1926], "description": "Black Mines - Front Jump Spot" }
+  { "pos": [-583, -15, 1926], "description": "Black Mines - Front Jump Spot" },
+  { "pos": [-657, -52, 1848], "description": "Burning Dark - Lava Lake" },
+  { "pos": [-616, -48, 1876], "description": "Burning Dark - Center of Maze" },
+  { "pos": [-602, -47, 1893], "description": "Burning Dark - Near South Tower" },
+  { "pos": [-567, -45, 1911], "description": "Burning Dark - Hidden Behind South-East Tower" },
+  { "pos": [-567, -45, 1912], "description": "Burning Dark - Hidden Behind South-East Tower" },
+  { "pos": [-603, -41, 1841], "description": "Burning Dark - North Tower" },
+  { "pos": [-636, -41, 1874], "description": "Burning Dark - West Tower" },
+  { "pos": [-599, -41, 1878], "description": "Burning Dark - Central Tower" },
+  { "pos": [-608, -39, 1910], "description": "Burning Dark - South Tower" },
+  { "pos": [-569, -38, 1906], "description": "Burning Dark - South-East Tower" }
 ]
