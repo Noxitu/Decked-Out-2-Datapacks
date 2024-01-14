@@ -1,11 +1,11 @@
 __pycache__/
 _*.py
+_*.json
 /.vscode
 
 /Install-Packs.ps1
 
 # Work in Progress
-/Decked Out 2 Audio Resource Pack
 /Decked Out 2 Catacombs
 /Decked Out 2 Egg Hunt/Advancements Datapack
 /Decked Out 2 Datapack
