@@ -116,6 +116,7 @@ IDS = {
     "cards.tread_lightly": "cc564ea6-c739-4332-a8a8-cb41ca45e0c1",  # tread_lightly BY Del Chupenebray/Joel Bickford
     "cards.treasure_hunter": "2f919cf2-5285-4368-b68b-a8bc3c88b30f",  # treasure_hunter BY Del Chupenebray/Joel Bickford
     "events.artifact_retrived": "5f173907-b11a-44d7-91f9-2d22f89a831b",  # DO_Artefact_ArtefactRetrieval_ BY Del Chupenebray/Joel Bickford
+    "events.card_reveal": "e0d77739-2673-4d28-9cfa-c797490311d6", # BY
     "events.clank_blocked.1": "77feaace-6c3e-4bb9-865d-63609973d49e",  # DO_Clank_ClankBlocked_Set1_1 BY Del Chupenebray/Joel Bickford
     "events.clank_blocked.2": "d0478208-652f-4b3b-ad0f-9ad588fa667f",  # DO_Clank_ClankBlocked_Set1_2 BY Del Chupenebray/Joel Bickford
     "events.clank_blocked.3": "fd81ca58-68f1-4314-bc6d-5b29ffc7f34d",  # DO_Clank_ClankBlocked_Set1_3 BY Del Chupenebray/Joel Bickford
@@ -176,6 +177,8 @@ IDS = {
     "interactions.difficulty.medium": "773f411f-fa81-4b5d-b3f8-8b28ced53cea",  # DO_Difficulty_Medium BY Del Chupenebray/Joel Bickford
     "interactions.dungeon_door_open": "f25b0520-a30c-49d8-a714-3ded7888f22a", # BY
     "interactions.dungeon_taunt": "b44472ef-710c-4c63-85df-076331418917",  # DO_DungeonTaunt_1 BY Del Chupenebray/Joel Bickford
+    "interactions.ember_shop_open": "59c6b097-0583-4367-beb8-2f349ba808e9", # BY
+    "interactions.ember_shop_opening": "62a3d798-895c-40ba-af65-573d8b89cfbe", # BY
     "interactions.install_deck": "9685bf60-bdee-4fc9-91a6-d8918278429c",  # DO_Shulker_Loaded_Tick+Thud BY Del Chupenebray/Joel Bickford
     "interactions.open_main_door": "60896fe1-c47f-41e6-bc90-2305e7b98b0c",  # DO_Entrance_DoorDrone_Set1_4 BY Del Chupenebray/Joel Bickford
     "interactions.purchase.1": "0bd04a3b-5cf5-47ff-9147-84290bf14974",  # DO_Currency_FrostEmberPurchase BY Del Chupenebray/Joel Bickford
@@ -243,12 +246,10 @@ IDS = {
     # "": "56c7ecb8-623f-4e6b-8798-642889f8bb40", # BY
     # "": "56fa4425-870e-462b-8d16-fb8e74f5c1fe", # BY
     # "": "58897024-956a-4783-b632-5e9ea181eb2b", # BY
-    # "": "59c6b097-0583-4367-beb8-2f349ba808e9", # BY
     # "": "5c393bcb-cdaa-42ed-9481-e17180c2784d", # BY
     # "": "5e844d52-cb7c-4f58-9161-e372019f6358", # Blank Project BY
     # "": "5fd8dfa8-2e61-4dc9-a0e0-7a80b5c8dd41", # Shopping for Christmas BY Home for the Holidays
     # "": "608dbecd-c74c-48b4-bc28-a117c8fb62a5", # BY
-    # "": "62a3d798-895c-40ba-af65-573d8b89cfbe", # BY
     # "": "645707cf-3428-42a7-b7f7-4e9c149d195e", # BY
     # "": "65104c88-dbf5-446f-bc03-66014bffb7f4", # BY
     # "": "657834a2-4277-4620-9420-e1754b6b7277", # BY
@@ -318,7 +319,6 @@ IDS = {
     # "": "de0c5d56-2241-41eb-af5a-b871876c799d", # BY
     # "": "df5e7134-cc93-4e80-897c-4aab76852c36", # BY
     # "": "dff7e5ea-6e5c-4b14-944e-b09a281a180b", # BY
-    # "": "e0d77739-2673-4d28-9cfa-c797490311d6", # BY
     # "": "e34f8d2d-f68e-4879-8b5d-9e162e91b254", # BY
     # "": "eb4416b3-a75d-4db6-bbba-45270025910c", # Birds Peaceful 2 BY
     # "": "f75b8fb6-b0d2-4616-85bc-43ba63bf4af8", # BY
@@ -345,6 +345,7 @@ GROUPS = {
     "holloween.failure": ...,
     "interactions.crown_conversion": ...,
     "interactions.frost_purchase": ...,
+    "ambient.warden_roar_with_cleo": ["ambient.warden_roar"]* 7 + ["ambient.hi_cleo"]
 }
 
 SUBTITLES = {
@@ -378,16 +379,22 @@ for sound_id, sound_hash in IDS.items():
     SOUNDS[sound_id] = sound
 
 
-for group_id, _ in GROUPS.items():
+for group_id, sounds in GROUPS.items():
     sound = {"replace": False, "sounds": []}
 
     if group_id in SUBTITLES:
         sound["subtitle"] = SUBTITLES[group_id]
 
-    for sound_id in SOUNDS:
-        if sound_id.startswith(f"{group_id}."):
-            sound["sounds"].extend(SOUNDS[sound_id]["sounds"])
-            SOUNDS[sound_id]["erased"] = True
+    if sounds is ...:
+        sounds = []
+        for sound_id in SOUNDS:
+            if sound_id.startswith(f"{group_id}."):
+                sounds.append(sound_id)
+                SOUNDS[sound_id]["erased"] = True
+
+
+    for sound_id in sounds:
+        sound["sounds"].extend(SOUNDS[sound_id]["sounds"])
 
     SOUNDS[group_id] = sound
 

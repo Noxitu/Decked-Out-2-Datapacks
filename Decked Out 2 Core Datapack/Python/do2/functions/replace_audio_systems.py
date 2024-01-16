@@ -32,7 +32,7 @@ def unused(name, *, facing="south"):
     return f"""{command_block}{{Command: "{command}"}}"""
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_artifact_pickup():
     x, y, z = -525, -31, 1936
     block = sound(f"do2:events.artifact_retrived", 220)
@@ -43,7 +43,7 @@ def replace_artifact_pickup():
         yield f"fill {x} {y} {z+1} {x} {y+2} {z+4} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_card_callout():
     x0, y, z0 = -551, -55, 1921
 
@@ -76,7 +76,30 @@ def replace_card_callout():
                 yield f"setblock {x+2} {y} {z} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_card_reveal_left():
+    x, y, z = -627, -25, 2004
+    block = sound(f"do2:events.card_reveal", 32)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x} {y+1} {z+1} {x-2} {y+2} {z+2} {AIR}"
+        yield f"setblock {x} {y+2} {z} {AIR}"
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_card_reveal_right():
+    x, y, z = -648, -24, 2002
+    block = sound(f"do2:events.card_reveal", 32)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x+1} {y} {z-1} {x+3} {y+1} {z-2} {AIR}"
+        yield f"setblock {x+1} {y+1} {z} {AIR}"
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_cave_gust():
     x, y, z = -537, -59, 1919
     block = sound(f"do2:ambient.cave_gust", 176)
@@ -88,7 +111,7 @@ def replace_cave_gust():
         yield f"setblock {x} {y+1} {z} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_difficulty():
     x0, y, z = -557, 117, 1986
     names = ["easy", "medium", "hard", "deadly", "deepfrost"]
@@ -107,7 +130,7 @@ def replace_difficulty():
             yield f"fill {x} {y-1} {z+2} {x} {y+1} {z+3} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_drone():
     x, y, z = -533, -57, 1915
     block = sound(f"do2:ambient.drone", 179)
@@ -119,7 +142,7 @@ def replace_drone():
         yield f"fill {x} {y} {z+2} {x-2} {y+1} {z+4} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_drone_deepfrost():
     x, y, z = -531, -57, 1912
     block = sound(f"do2:ambient.drone_deepfrost", 176)
@@ -132,7 +155,20 @@ def replace_drone_deepfrost():
         yield f"fill {x+2} {y} {z} {x+4} {y} {z+2} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_dungeon_door_open():
+    x, y, z = -621, 44, 1953
+    block = sound(f"do2:interactions.dungeon_door_open", 20)
+
+    yield f"fill {x} {y} {z+1} {x} {y} {z+3} minecraft:repeater[delay=4,facing=north]"
+    yield f"setblock {x} {y} {z+4} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x-2} {y} {z} {x-2} {y-1} {z-2} {AIR}"
+
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_dungeon_is_ready():
     x, y, z = -539, 116, 1968
     block = sound(f"do2:events.dungeon_is_ready", 100)
@@ -142,8 +178,40 @@ def replace_dungeon_is_ready():
     if REMOVE_OLD_SYSTEM:
         yield f"fill {x+1} {y} {z-1} {x+5} {y+3} {z-1} {AIR}"
 
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_dungeon_taunt():
+    x, y, z = -644, -19, 1988
+    block = sound(f"do2:interactions.dungeon_taunt", 50)
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x-1} {y-2} {z+1} {x} {y} {z+3} {AIR}"
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_ember_shop_open():
+    x, y, z = -629, -20, 1987
+    block = sound(f"do2:interactions.ember_shop_open", 50)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x+1} {y-1} {z-2} {x+1} {y+1} {z} {AIR}"
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_ember_shop_opening():
+    x, y, z = -643, -22, 1981
+    block = sound(f"do2:interactions.ember_shop_opening", 50)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"setblock -644 -21 1980 minecraft:barrel"
+
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_event_sounds():
     x0, y, z = -547, -57, 1951
     events = ["heartbeat", "clank_blocked", "hazard", "hazard_blocked"]
@@ -158,7 +226,7 @@ def replace_event_sounds():
         yield f"setblock {x} {y+2} {z} minecraft:torch"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_game_over():
     x, y, z = -551, 119, 1970
     block = sound(f"do2:events.game_over", 48)
@@ -169,7 +237,7 @@ def replace_game_over():
         yield f"fill {x-2} {y} {z+1} {x-1} {y+2} {z+1} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_install_deck():
     x, y, z = -569, 114, 1979
     block = sound(f"do2:interactions.install_deck", 20)
@@ -180,7 +248,18 @@ def replace_install_deck():
         yield f"fill {x-1} {y-1} {z+1} {x} {y+1} {z+4} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_open_level04():
+    x, y, z = -637, -20, 1894
+    block = sound(f"do2:events.deepfrost_tnt", 64)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x+1} {y-1} {z} {x+3} {y+1} {z} {AIR}"
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_open_main_door():
     x, y, z = -539, 109, 1977
     block = sound(f"do2:interactions.open_main_door", 32, at="-543 114 1980")
@@ -191,7 +270,7 @@ def replace_open_main_door():
         yield f"fill {x} {y} {z+1} {x} {y+1} {z+2} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_take_your_items():
     x, y, z = -547, 119, 1992
     block = sound(f"do2:interactions.take_your_items", 32)
@@ -202,7 +281,7 @@ def replace_take_your_items():
         yield f"fill {x-3} {y-1} {z+1} {x+1} {y} {z+1} {AIR}"
 
 
-@mcfunction(tags=["do2:experiments/replace_audio_systems"])
+@mcfunction(tags=["do2:replace_audio_systems"])
 def replace_test_room():
     x, y, z = -522, 122, 1983
     block1 = sound(f"do2:events.hazard", 16)
@@ -219,3 +298,27 @@ def replace_test_room():
         yield f"fill {x+3} {y+1} {z-1} {x+3} {y+2} {z-3} {AIR}"
         yield f"fill {x+1} {y+2} {z+1} {x+2} {y+3} {z+1} {AIR}"
         yield f"fill {x-1} {y+1} {z+6} {x-3} {y+2} {z+8} {AIR}"
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_warden_emerge():
+    x, y, z = -575, 88, 1938
+    block = sound(f"do2:ambient.warden_emerge", 50)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x-4} {y} {z} {x-2} {y+2} {z} {AIR}"
+        yield f"setblock {x-2} {y} {z} {FILLER}"
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_warden_emerge():
+    x, y, z = -612, 45, 1945
+    block = sound(f"do2:ambient.warden_roar", 50)
+
+    yield f"fill {x} {y} {z} {x} {y} {z+1} minecraft:repeater[delay=4,facing=north]"
+    yield f"setblock {x} {y} {z+2} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x+2} {y} {z-3} {x+2} {y+2} {z-1} {AIR}"
+
