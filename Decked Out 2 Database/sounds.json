@@ -1,0 +1,61 @@
+[
+    {
+        "-comment": "Card Recycle Sound",
+        "sound": "events.recycle",
+        "range": 180,
+        "command_block": "-619 31 1920",
+        "air": "-618 31 1918 -618 33 1920"
+    },
+    {
+        "-comment": "Halloween - Success",
+        "sound": "halloween.success",
+        "range": 30,
+        "command_block": "-526 8 2047",
+        "air": "-524 8 2044 -522 10 2046"
+    },
+    {
+        "-comment": "Halloween - Fail",
+        "sound": "halloween.failure",
+        "range": 30,
+        "command_block": "-530 9 2048",
+        "air": "-532 10 2046 -530 10 2047"
+    },
+    {
+        "-comment": "Halloween - Enterance",
+        "sound": "halloween.enterance",
+        "range": 30,
+        "command_block": "-520 10 2044",
+        "remove": [
+            "fill -521 10 2045 -521 12 2047 minecraft:air",
+            "fill -521 11 2045 -521 12 2045 minecraft:glass"
+        ]
+    },
+    {
+        "id": "open_main_door",
+        "sound": "interactions.open_main_door",
+        "at": "-543 114 1980",
+        "range": 32,
+        "command_block": "-539 109 1977",
+        "delay": 14,
+        "air": "-539 109 1978 -539 110 1979"
+    },
+    {
+        "id": "level01_door_open",
+        "sound": "interactions.dungeon_door_open",
+        "at": "-622 49 1956",
+        "range": 32,
+        "command_block": "-621 45 1951",
+        "delay": 16,
+        "air": "-623 43 1951 -623 44 1953"
+    },
+    {
+        "id": "level04_door_open",
+        "sound": "events.deepfrost_tnt",
+        "at": "-641 -8 1904",
+        "range": 64,
+        "command_block": "-637 -20 1894",
+        "delay": 16,
+        "air": "-636 -21 1894 -634 -19 1894"
+    }
+]
+

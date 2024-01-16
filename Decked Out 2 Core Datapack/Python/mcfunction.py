@@ -28,11 +28,12 @@ def _get_tags_path(function_name):
     return _ROOT / (function_name.replace(":", "/tags/functions/") + ".json")
 
 
-def mcfunction(call=None, *, tags=None):
+def mcfunction(call=None, *, tags=None, function_name=None):
     if call is None:
-        return _functools.partial(mcfunction, tags=tags)
+        return _functools.partial(mcfunction, tags=tags, function_name=function_name)
 
-    function_name = _get_function_name(call)
+    if function_name is None:
+        function_name = _get_function_name(call)
 
     _FUNCTIONS[function_name] = call
 

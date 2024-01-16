@@ -1,10 +1,22 @@
 from mcfunction import mcfunction
+import data
 
 AIR = "minecraft:air"
 FILLER = "minecraft:diamond_block"
 
 
-REMOVE_OLD_SYSTEM = True
+REMOVE_OLD_SYSTEM = False
+
+
+def delay_sound(function_name, delay, *, facing="south"):
+    command_block = f"minecraft:command_block[facing={facing},conditional=false]"
+
+    if delay > 0:
+        command = f"schedule function {function_name} {delay}t append"
+    else:
+        command = f"function {function_name}"
+
+    return f"""{command_block}{{Command: "{command}"}}"""
 
 
 def sound(name, distance, *, facing="south", condition="", at=None):
@@ -12,7 +24,7 @@ def sound(name, distance, *, facing="south", condition="", at=None):
     command = [
         "execute",
         condition,
-        f"as @a[distance=..{distance}]",
+        f"as @a[tag=do2.cmd_sound,distance=..{distance}]",
         "at @s",
         f"run playsound {name} master @s",
     ]
@@ -87,6 +99,7 @@ def replace_card_reveal_left():
         yield f"fill {x} {y+1} {z+1} {x-2} {y+2} {z+2} {AIR}"
         yield f"setblock {x} {y+2} {z} {AIR}"
 
+
 @mcfunction(tags=["do2:replace_audio_systems"])
 def replace_card_reveal_right():
     x, y, z = -648, -24, 2002
@@ -109,6 +122,17 @@ def replace_cave_gust():
     if REMOVE_OLD_SYSTEM:
         yield f"fill {x-2} {y} {z-2} {x-1} {y+1} {z+2} {AIR}"
         yield f"setblock {x} {y+1} {z} {AIR}"
+
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_crown_shop_purchase():
+    x, y, z = -502, 105, 1978
+    block = sound(f"do2:interactions.purchase", 50)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x-2} {y-1} {z+1} {x} {y+1} {z+3} {AIR}"
 
 
 @mcfunction(tags=["do2:replace_audio_systems"])
@@ -155,17 +179,16 @@ def replace_drone_deepfrost():
         yield f"fill {x+2} {y} {z} {x+4} {y} {z+2} {AIR}"
 
 
-@mcfunction(tags=["do2:replace_audio_systems"])
-def replace_dungeon_door_open():
-    x, y, z = -621, 44, 1953
-    block = sound(f"do2:interactions.dungeon_door_open", 20)
+# @mcfunction(tags=["do2:replace_audio_systems"])
+# def replace_dungeon_door_open():
+#     x, y, z = -621, 44, 1953
+#     block = sound(f"do2:interactions.dungeon_door_open", 20)
 
-    yield f"fill {x} {y} {z+1} {x} {y} {z+3} minecraft:repeater[delay=4,facing=north]"
-    yield f"setblock {x} {y} {z+4} {block}"
+#     yield f"fill {x} {y} {z+1} {x} {y} {z+3} minecraft:repeater[delay=4,facing=north]"
+#     yield f"setblock {x} {y} {z+4} {block}"
 
-    if REMOVE_OLD_SYSTEM:
-        yield f"fill {x-2} {y} {z} {x-2} {y-1} {z-2} {AIR}"
-
+#     if REMOVE_OLD_SYSTEM:
+#         yield f"fill {x-2} {y} {z} {x-2} {y-1} {z-2} {AIR}"
 
 
 @mcfunction(tags=["do2:replace_audio_systems"])
@@ -177,6 +200,7 @@ def replace_dungeon_is_ready():
 
     if REMOVE_OLD_SYSTEM:
         yield f"fill {x+1} {y} {z-1} {x+5} {y+3} {z-1} {AIR}"
+
 
 @mcfunction(tags=["do2:replace_audio_systems"])
 def replace_dungeon_taunt():
@@ -199,6 +223,7 @@ def replace_ember_shop_open():
     if REMOVE_OLD_SYSTEM:
         yield f"fill {x+1} {y-1} {z-2} {x+1} {y+1} {z} {AIR}"
 
+
 @mcfunction(tags=["do2:replace_audio_systems"])
 def replace_ember_shop_opening():
     x, y, z = -643, -22, 1981
@@ -209,6 +234,17 @@ def replace_ember_shop_opening():
     if REMOVE_OLD_SYSTEM:
         yield f"setblock -644 -21 1980 minecraft:barrel"
 
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_ember_shop_purchase():
+    x, y, z = -637, -22, 2001
+    block = sound(f"do2:interactions.purchase", 50)
+
+    yield f"setblock {x} {y} {z} {block}"
+
+    if REMOVE_OLD_SYSTEM:
+        yield f"fill {x+1} {y} {z+1} {x+1} {y+2} {z+3} {AIR}"
+        yield f"setblock {x+1} {y+1} {z-1} {AIR}"
 
 
 @mcfunction(tags=["do2:replace_audio_systems"])
@@ -242,32 +278,21 @@ def replace_install_deck():
     x, y, z = -569, 114, 1979
     block = sound(f"do2:interactions.install_deck", 20)
 
-    yield f"setblock {x} {y} {z} {block}"
+    yield f"setblock {x} {y-1} {z-1} {block}"
 
     if REMOVE_OLD_SYSTEM:
         yield f"fill {x-1} {y-1} {z+1} {x} {y+1} {z+4} {AIR}"
 
 
-@mcfunction(tags=["do2:replace_audio_systems"])
-def replace_open_level04():
-    x, y, z = -637, -20, 1894
-    block = sound(f"do2:events.deepfrost_tnt", 64)
+# @mcfunction(tags=["do2:replace_audio_systems"])
+# def replace_open_level04():
+#     x, y, z = -637, -20, 1894
+#     block = sound(f"do2:events.deepfrost_tnt", 64)
 
-    yield f"setblock {x} {y} {z} {block}"
+#     yield f"setblock {x} {y} {z} {block}"
 
-    if REMOVE_OLD_SYSTEM:
-        yield f"fill {x+1} {y-1} {z} {x+3} {y+1} {z} {AIR}"
-
-
-@mcfunction(tags=["do2:replace_audio_systems"])
-def replace_open_main_door():
-    x, y, z = -539, 109, 1977
-    block = sound(f"do2:interactions.open_main_door", 32, at="-543 114 1980")
-
-    yield f"setblock {x} {y} {z} {block}"
-
-    if REMOVE_OLD_SYSTEM:
-        yield f"fill {x} {y} {z+1} {x} {y+1} {z+2} {AIR}"
+#     if REMOVE_OLD_SYSTEM:
+#         yield f"fill {x+1} {y-1} {z} {x+3} {y+1} {z} {AIR}"
 
 
 @mcfunction(tags=["do2:replace_audio_systems"])
@@ -311,6 +336,7 @@ def replace_warden_emerge():
         yield f"fill {x-4} {y} {z} {x-2} {y+2} {z} {AIR}"
         yield f"setblock {x-2} {y} {z} {FILLER}"
 
+
 @mcfunction(tags=["do2:replace_audio_systems"])
 def replace_warden_emerge():
     x, y, z = -612, 45, 1945
@@ -322,3 +348,26 @@ def replace_warden_emerge():
     if REMOVE_OLD_SYSTEM:
         yield f"fill {x+2} {y} {z-3} {x+2} {y+2} {z-1} {AIR}"
 
+
+@mcfunction(tags=["do2:replace_audio_systems"])
+def replace_simple_systems():
+    systems = data.SOUNDS
+
+    for desc in systems:
+        if "delay" in desc:
+            block = delay_sound(f"""do2:play_sound/{desc["id"]}""", desc["delay"])
+        else:
+            kwargs = {}
+            if "at" in desc:
+                kwargs["at"] = desc["at"]
+
+            block = sound(f"""do2:{desc["sound"]}""", desc["range"])
+
+        if REMOVE_OLD_SYSTEM:
+            if "air" in desc:
+                yield f"""fill {desc["air"]} {AIR}"""
+
+            yield from desc.get("remove", [])
+
+        yield f"""setblock {desc["command_block"]} {AIR}"""
+        yield f"""setblock {desc["command_block"]} {block}"""

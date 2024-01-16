@@ -4,6 +4,8 @@ _*.json
 /.vscode
 
 /Install-Packs.ps1
+Deploy.ps1
+*.zip
 
 # Work in Progress
 /Decked Out 2 Catacombs

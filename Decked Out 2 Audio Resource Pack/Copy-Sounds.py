@@ -156,13 +156,13 @@ IDS = {
     "events.recycle.6": "1473a3ea-45ec-47ca-b8c4-f93254467be4",  # DO_Card_Recycle_6 BY Del Chupenebray/Joel Bickford
     "events.recycle.7": "40356557-dcc1-4ef5-a830-089493d7fbab",  # DO_Card_Recycle_7 BY Del Chupenebray/Joel Bickford
     "events.recycle.8": "773c56cd-e551-4a11-a050-f17310678f86",  # DO_Card_Recycle_8 BY Del Chupenebray/Joel Bickford
-    "holloween.enterance.1": "cda7ec93-5454-4f64-a6c6-5b431a29b63f",  # DO_Holloween_EntranceTune_1 BY Del Chupenebray/Joel Bickford
-    "holloween.enterance.2": "602f6a24-2e3b-4e13-a211-c814f452c390",  # DO_Holloween_EntranceTune_2 BY Del Chupenebray/Joel Bickford
-    "holloween.enterance.3": "5bf4c518-2e69-47d4-9559-5756cc5e2343",  # DO_Holloween_EntranceTune_3 BY Del Chupenebray/Joel Bickford
-    "holloween.failure.1": "32e5657f-9d7b-494e-b38d-aaca1f522d2a",  # DO_Holloween_Failure_1 BY Del Chupenebray/Joel Bickford
-    "holloween.failure.2": "edd55cdd-45a7-41ce-bbfd-ec3f9c59c02a",  # DO_Holloween_Failure_2 BY Del Chupenebray/Joel Bickford
-    "holloween.failure.3": "f204d832-bdd9-489e-a6aa-b8c11128949b",  # DO_Holloween_Failure_3 BY Del Chupenebray/Joel Bickford
-    "holloween.success": "3477400c-a6c4-4be1-9248-8c54533f2a42",  # DO_Holloween_Success_1 BY Del Chupenebray/Joel Bickford
+    "halloween.enterance.1": "cda7ec93-5454-4f64-a6c6-5b431a29b63f",  # DO_Holloween_EntranceTune_1 BY Del Chupenebray/Joel Bickford
+    "halloween.enterance.2": "602f6a24-2e3b-4e13-a211-c814f452c390",  # DO_Holloween_EntranceTune_2 BY Del Chupenebray/Joel Bickford
+    "halloween.enterance.3": "5bf4c518-2e69-47d4-9559-5756cc5e2343",  # DO_Holloween_EntranceTune_3 BY Del Chupenebray/Joel Bickford
+    "halloween.failure.1": "32e5657f-9d7b-494e-b38d-aaca1f522d2a",  # DO_Holloween_Failure_1 BY Del Chupenebray/Joel Bickford
+    "halloween.failure.2": "edd55cdd-45a7-41ce-bbfd-ec3f9c59c02a",  # DO_Holloween_Failure_2 BY Del Chupenebray/Joel Bickford
+    "halloween.failure.3": "f204d832-bdd9-489e-a6aa-b8c11128949b",  # DO_Holloween_Failure_3 BY Del Chupenebray/Joel Bickford
+    "halloween.success": "3477400c-a6c4-4be1-9248-8c54533f2a42",  # DO_Holloween_Success_1 BY Del Chupenebray/Joel Bickford
     "interactions.crown_conversion.1": "002ca7c8-4c26-47f2-9323-a50889979936",  # DO_Currency_CrownConversion_Se BY Del Chupenebray/Joel Bickford
     "interactions.crown_conversion.2": "093c7b0e-f806-4ce9-9760-d1e9f4e700c0",  # DO_Currency_CrownConversion_Se BY Del Chupenebray/Joel Bickford
     "interactions.crown_conversion.3": "0f4d4df2-9e0f-446e-940b-cc3c1b712255",  # DO_Currency_CrownConversion_Se BY Del Chupenebray/Joel Bickford
@@ -341,10 +341,10 @@ GROUPS = {
     "events.hazard_blocked": ...,
     "events.hazard": ...,
     "events.recycle": ...,
-    "holloween.enterance": ...,
-    "holloween.failure": ...,
+    "halloween.enterance": ...,
+    "halloween.failure": ...,
     "interactions.crown_conversion": ...,
-    "interactions.frost_purchase": ...,
+    "interactions.purchase": ...,
     "ambient.warden_roar_with_cleo": ["ambient.warden_roar"]* 7 + ["ambient.hi_cleo"]
 }
 
