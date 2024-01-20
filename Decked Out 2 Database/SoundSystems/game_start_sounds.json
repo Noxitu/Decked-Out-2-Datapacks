@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ambient.cave_wind",
+    "delay": 12,
+    "sound": "ambient.cave_wind",
+    "range": 70,
+    "command_block": "-586 80 1943",
+    "remove": "-586 80 1942 -585 81 1942"
+  },
+  {
+    "sound": "ambient.warden_emerge",
+    "range": 50,
+    "command_block": "-575 88 1938",
+    "remove": ["-579 88 1938 -577 90 1938", { "area": "-577 88 1938", "block": "FILLER" }]
+  },
+  {
+    "id": "warden_roar",
+    "at": "-607 50 1937",
+    "delay": 12,
+    "sound": "ambient.warden_roar",
+    "range": 50,
+    "command_block": "-612 44 1944",
+    "remove": "-610 45 1942 -610 47 1944"
+  },
+  {
+    "id": "level01_door_open",
+    "sound": "interactions.dungeon_door_open",
+    "at": "-622 49 1956",
+    "range": 32,
+    "command_block": "-621 45 1951",
+    "delay": 16,
+    "remove": "-623 43 1951 -623 44 1953"
+  }
+]

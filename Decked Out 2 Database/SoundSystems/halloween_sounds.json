@@ -1,0 +1,26 @@
+[
+    {
+        "sound": "halloween.success",
+        "range": 30,
+        "command_block": "-526 8 2047",
+        "remove": "-524 8 2044 -522 10 2046"
+    },
+    {
+        "sound": "halloween.failure",
+        "range": 30,
+        "command_block": "-530 9 2048",
+        "remove": [
+            "-532 10 2046 -530 10 2047",
+            "-534 9 2048 -532 10 2049"
+        ]
+    },
+    {
+        "sound": "halloween.enterance",
+        "range": 30,
+        "command_block": "-520 10 2044",
+        "remove": [
+            "-521 10 2045 -521 12 2047",
+            "-521 11 2045 -521 12 2045"
+        ]
+    }
+]

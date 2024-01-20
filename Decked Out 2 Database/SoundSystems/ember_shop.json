@@ -1,0 +1,11 @@
+[
+    {
+        "sound": "interactions.crown_conversion",
+        "range": 30,
+        "command_block": "-650 -16 1981",
+        "remove": [
+            "-650 -16 1982 -650 -15 1983",
+            {"area": "-650 -16 1982", "block": "FILLER"}
+        ]
+    }
+]

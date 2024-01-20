@@ -1,0 +1,247 @@
+{
+    "Adrenaline Rush": {
+      "id": 1,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Beast Sense": {
+      "id": 2,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Bounding Strides": {
+      "id": 3,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Brilliance": {
+      "id": 4,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Chill Step": {
+      "id": 5,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Cold Snap": {
+      "id": 6,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Deepfrost": {
+      "id": 7,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Dungeon Repairs": {
+      "id": 8,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Eerie Silence": {
+      "id": 9,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Ember Seeker": {
+      "id": 10,
+      "limit": 5,
+      "rarity": "common",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Evasion": {
+      "id": 11,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Eyes on the Prize": {
+      "id": 12,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Frost Focus": {
+      "id": 13,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Fuzzy Bunny Slippers": {
+      "id": 14,
+      "limit": 1,
+      "rarity": "rare",
+      "permanent": true,
+      "ethereal": false
+    },
+    "Loot and Scoot": {
+      "id": 15,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Moment of Clarity": {
+      "id": 16,
+      "limit": 5,
+      "rarity": "common",
+      "permanent": false,
+      "ethereal": true
+    },
+    "Nimble Looting": {
+      "id": 17,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Pay to Win": {
+      "id": 18,
+      "limit": 5,
+      "rarity": "shop",
+      "permanent": false,
+      "ethereal": true
+    },
+    "Pirate's Booty": {
+      "id": 19,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Pork Chop Power": {
+      "id": 20,
+      "limit": 1,
+      "rarity": "shop",
+      "permanent": true,
+      "ethereal": true
+    },
+    "Quickstep": {
+      "id": 21,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Reckless Charge": {
+      "id": 22,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Second Wind": {
+      "id": 23,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Silent Runner": {
+      "id": 24,
+      "limit": 1,
+      "rarity": "rare",
+      "permanent": true,
+      "ethereal": false
+    },
+    "Smash and Grab": {
+      "id": 25,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Sneak": {
+      "id": 26,
+      "limit": 5,
+      "rarity": "common",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Speed Runner": {
+      "id": 27,
+      "limit": 1,
+      "rarity": "rare",
+      "permanent": true,
+      "ethereal": false
+    },
+    "Sprint": {
+      "id": 28,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Stability": {
+      "id": 29,
+      "limit": 5,
+      "rarity": "common",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Stumble": {
+      "id": 30,
+      "limit": 0,
+      "rarity": "bane",
+      "permanent": false,
+      "ethereal": true
+    },
+    "Suit Up": {
+      "id": 31,
+      "limit": 1,
+      "rarity": "uncommon",
+      "permanent": true,
+      "ethereal": false
+    },
+    "Swagger": {
+      "id": 32,
+      "limit": 3,
+      "rarity": "rare",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Tactical Approach": {
+      "id": 33,
+      "limit": 1,
+      "rarity": "shop",
+      "permanent": true,
+      "ethereal": true
+    },
+    "Tread Lightly": {
+      "id": 34,
+      "limit": 3,
+      "rarity": "uncommon",
+      "permanent": false,
+      "ethereal": false
+    },
+    "Treasure Hunter": {
+      "id": 35,
+      "limit": 5,
+      "rarity": "common",
+      "permanent": false,
+      "ethereal": false
+    }
+  }

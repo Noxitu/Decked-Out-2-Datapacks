@@ -12,7 +12,7 @@ ASSETS_ROOT = Path(__file__).parent / "assets"
 
 
 IDS = {
-    "": "7323bc71-0053-4679-966d-1a4099eb8f1c", # Generic difficulty setting? # DO_Shulker_Loaded_1 BY Del Chupenebray/Joel Bickford
+    "": "7323bc71-0053-4679-966d-1a4099eb8f1c", # Generic difficulty setting? Seems unused # DO_Shulker_Loaded_1 BY Del Chupenebray/Joel Bickford
     "ambient.cave_gust.1": "34e9c2c9-c961-48e4-80d1-c182d13f42a8",  # DO_Atmospherics_CaveGust_1 BY Del Chupenebray/Joel Bickford
     "ambient.cave_gust.2": "57711562-505e-4f31-82b1-01fd462734a0",  # DO_Atmospherics_CaveGust_2 BY Del Chupenebray/Joel Bickford
     "ambient.cave_gust.3": "c345eccc-046f-4eeb-a782-7eb8ca14b938",  # DO_Atmospherics_CaveGust_3 BY Del Chupenebray/Joel Bickford
@@ -22,6 +22,7 @@ IDS = {
     "ambient.cave_gust.7": "f32d95aa-7532-4a13-944f-a1f9859b21f5",  # DO_Atmospherics_CaveGust_7 BY Del Chupenebray/Joel Bickford
     "ambient.cave_gust.8": "d78183dd-4b1a-4f3a-918e-cc8b12d0ad78",  # DO_Atmospherics_CaveGust_8 BY Del Chupenebray/Joel Bickford
     "ambient.cave_gust.9": "4351ada5-2fe1-4dd1-b739-ff0bc2d6211c",  # DO_Atmospherics_CaveGust_9 BY Del Chupenebray/Joel Bickford
+    "ambient.cave_wind": "fb82b406-6f08-490e-8081-6c6063c97672", # BY
     "ambient.drone_deepfrost.1": "f33500b4-325e-489c-ad05-b21e2131b077",  # DO_Ambient_Drone_DeepFrost_1 BY Del Chupenebray/Joel Bickford
     "ambient.drone_deepfrost.10": "da214c03-1077-44d4-92e0-b80d64c4aa3f",  # DO_Ambient_Drone_DeepFrost_10 BY Del Chupenebray/Joel Bickford
     "ambient.drone_deepfrost.11": "3bbbec08-c4c5-4dc8-ad6c-09818a8ef1c0",  # DO_Ambient_Drone_DeepFrost_11 BY Del Chupenebray/Joel Bickford
@@ -322,7 +323,6 @@ IDS = {
     # "": "e34f8d2d-f68e-4879-8b5d-9e162e91b254", # BY
     # "": "eb4416b3-a75d-4db6-bbba-45270025910c", # Birds Peaceful 2 BY
     # "": "f75b8fb6-b0d2-4616-85bc-43ba63bf4af8", # BY
-    # "": "fb82b406-6f08-490e-8081-6c6063c97672", # BY
     # "": "fc6743d3-36de-42ad-b4e6-84934c72ac18", # BY
     # "": "fde15666-26e5-4be7-b1b7-450627242be5", # Sci Fi Voice Clip 14 BY SFX Producer
     # "": "fef86c77-92e4-44c9-b15f-780a163eb84d", # BY

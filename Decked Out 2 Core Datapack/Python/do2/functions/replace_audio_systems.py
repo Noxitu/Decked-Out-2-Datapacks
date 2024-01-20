@@ -284,17 +284,6 @@ def replace_install_deck():
         yield f"fill {x-1} {y-1} {z+1} {x} {y+1} {z+4} {AIR}"
 
 
-# @mcfunction(tags=["do2:replace_audio_systems"])
-# def replace_open_level04():
-#     x, y, z = -637, -20, 1894
-#     block = sound(f"do2:events.deepfrost_tnt", 64)
-
-#     yield f"setblock {x} {y} {z} {block}"
-
-#     if REMOVE_OLD_SYSTEM:
-#         yield f"fill {x+1} {y-1} {z} {x+3} {y+1} {z} {AIR}"
-
-
 @mcfunction(tags=["do2:replace_audio_systems"])
 def replace_take_your_items():
     x, y, z = -547, 119, 1992
@@ -325,49 +314,44 @@ def replace_test_room():
         yield f"fill {x-1} {y+1} {z+6} {x-3} {y+2} {z+8} {AIR}"
 
 
-@mcfunction(tags=["do2:replace_audio_systems"])
-def replace_warden_emerge():
-    x, y, z = -575, 88, 1938
-    block = sound(f"do2:ambient.warden_emerge", 50)
-
-    yield f"setblock {x} {y} {z} {block}"
-
-    if REMOVE_OLD_SYSTEM:
-        yield f"fill {x-4} {y} {z} {x-2} {y+2} {z} {AIR}"
-        yield f"setblock {x-2} {y} {z} {FILLER}"
-
-
-@mcfunction(tags=["do2:replace_audio_systems"])
-def replace_warden_emerge():
-    x, y, z = -612, 45, 1945
-    block = sound(f"do2:ambient.warden_roar", 50)
-
-    yield f"fill {x} {y} {z} {x} {y} {z+1} minecraft:repeater[delay=4,facing=north]"
-    yield f"setblock {x} {y} {z+2} {block}"
-
-    if REMOVE_OLD_SYSTEM:
-        yield f"fill {x+2} {y} {z-3} {x+2} {y+2} {z-1} {AIR}"
-
 
 @mcfunction(tags=["do2:replace_audio_systems"])
 def replace_simple_systems():
-    systems = data.SOUNDS
+    for systems in [data.SOUNDS, *data.SOUNDSYSTEMS.Items]:
+    # for systems in [*data.SOUNDSYSTEMS.Items]:
+        for desc in systems:
+            if "delay" in desc:
+                command_block = delay_sound(f"""do2:play_sound/{desc["id"]}""", desc["delay"])
+            else:
+                kwargs = {}
+                if "at" in desc:
+                    kwargs["at"] = desc["at"]
 
-    for desc in systems:
-        if "delay" in desc:
-            block = delay_sound(f"""do2:play_sound/{desc["id"]}""", desc["delay"])
-        else:
-            kwargs = {}
-            if "at" in desc:
-                kwargs["at"] = desc["at"]
+                command_block = sound(f"""do2:{desc["sound"]}""", desc["range"])
 
-            block = sound(f"""do2:{desc["sound"]}""", desc["range"])
+            if REMOVE_OLD_SYSTEM:
+                remove_list = desc.get("remove", [])
 
-        if REMOVE_OLD_SYSTEM:
-            if "air" in desc:
-                yield f"""fill {desc["air"]} {AIR}"""
+                if not isinstance(remove_list, list):
+                    remove_list = [remove_list]
 
-            yield from desc.get("remove", [])
+                for remove_item in remove_list:
+                    if isinstance(remove_item, str):
+                        remove_item = {"area": remove_item}
+                        
+                    area = remove_item["area"]
+                    block = remove_item.get("block", "minecraft:glass")
 
-        yield f"""setblock {desc["command_block"]} {AIR}"""
-        yield f"""setblock {desc["command_block"]} {block}"""
+                    if block == "FILLER":
+                        block = FILLER
+
+                    if len(area.split()) == 3:
+                        cmd = "setblock"
+                    else:
+                        cmd = "fill"
+
+                    yield f"""{cmd} {area} {block}"""
+
+
+            yield f"""setblock {desc["command_block"]} {FILLER}"""
+            yield f"""setblock {desc["command_block"]} {command_block}"""

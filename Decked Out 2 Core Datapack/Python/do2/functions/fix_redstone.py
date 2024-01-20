@@ -32,3 +32,14 @@ def fix_crown_converter_delay():
         execute if block -644 -15 1984 minecraft:repeater[facing=south,delay=1]
                 run setblock -644 -15 1984 minecraft:repeater[facing=south,delay=3]
         """
+    
+
+@mcfunction(tags=["do2:fix_dungeon"])
+def fix_silent_runner():
+    yield "fill -553 29 1924 -552 31 1927 minecraft:air"
+    yield "fill -552 29 1924 -552 29 1927 minecraft:redstone_wire"
+    yield "setblock -553 30 1928 minecraft:target"
+    yield "setblock -554 24 1938 minecraft:sticky_piston[facing=up]"
+    yield "setblock -554 25 1938 minecraft:blue_wool"
+    yield "setblock -554 24 1939 minecraft:blue_wool"
+    yield "setblock -554 25 1939 minecraft:redstone_wire"

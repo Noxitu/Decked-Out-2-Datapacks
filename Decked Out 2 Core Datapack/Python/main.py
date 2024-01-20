@@ -1,4 +1,5 @@
 import do2.functions.carpet_map_player
+import do2.functions.check_deck
 import do2.functions.fix_card_counter
 import do2.functions.fix_cove_dripstone
 import do2.functions.fix_main_door_armor_stands
@@ -9,8 +10,10 @@ import do2.functions.play_sound
 import do2.functions.regrow_berry_bushes
 import do2.functions.replace_audio_systems
 import do2.functions.teleport_mobs
+import do2.functions.food
 import mcfunction
 
 
 if __name__ == '__main__':
-    mcfunction.save()
+    import sys
+    mcfunction.save(skip="--skip" in sys.argv)
