@@ -1,0 +1,7 @@
+[project]
+name = "NoxituPackBuilder"
+version = "0.0.1"
+
+[project.scripts]
+pack-build = "noxitu_pack_builder.build:main"
+pack-watch = "noxitu_pack_builder.watch:main"
