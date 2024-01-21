@@ -1,0 +1,106 @@
+{
+    "Adrenaline Rush": {
+        "model": 301,
+        "prize": 2
+    },
+    "Beast Sense": {
+        "model": 302,
+        "prize": 2
+    },
+    "Bounding Strides": {
+        "model": 303,
+        "prize": 2
+    },
+    "Brilliance": {
+        "model": 304,
+        "prize": 2
+    },
+    "Chill Step": {
+        "model": 305,
+        "prize": 2
+    },
+    "Cold Snap": {
+        "model": 306,
+        "prize": 2
+    },
+    "Deepfrost": {
+        "model": 307,
+        "prize": 2
+    },
+    "Dungeon Repairs": {
+        "model": 308,
+        "prize": 2
+    },
+    "Eerie Silence": {
+        "model": 309,
+        "prize": 2
+    },
+    "Evasion": {
+        "model": 310,
+        "prize": 2
+    },
+    "Eyes on the Prize": {
+        "model": 311,
+        "prize": 2
+    },
+    "Frost Focus": {
+        "model": 312,
+        "prize": 2
+    },
+    "Fuzzy Bunny Slippers": {
+        "model": 313,
+        "prize": 2
+    },
+    "Loot and Scoot": {
+        "model": 314,
+        "prize": 2
+    },
+    "Nimble Looting": {
+        "model": 315,
+        "prize": 2
+    },
+    "Pirate's Booty": {
+        "model": 316,
+        "prize": 2
+    },
+    "Quickstep": {
+        "model": 317,
+        "prize": 2
+    },
+    "Reckless Charge": {
+        "model": 318,
+        "prize": 2
+    },
+    "Second Wind": {
+        "model": 319,
+        "prize": 2
+    },
+    "Silent Runner": {
+        "model": 320,
+        "prize": 2
+    },
+    "Smash and Grab": {
+        "model": 321,
+        "prize": 2
+    },
+    "Speed Runner": {
+        "model": 322,
+        "prize": 2
+    },
+    "Sprint": {
+        "model": 323,
+        "prize": 2
+    },
+    "Suit Up": {
+        "model": 324,
+        "prize": 2
+    },
+    "Swagger": {
+        "model": 325,
+        "prize": 2
+    },
+    "Tread Lightly": {
+        "model": 326,
+        "prize": 2
+    }
+}

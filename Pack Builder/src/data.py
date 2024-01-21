@@ -5,7 +5,7 @@ import sys
 import matplotlib.pyplot as plt
 
 
-ROOT = Path(__file__).parents[2] / 'Decked Out 2 Database'
+ROOT = Path(__file__).parents[2] / "Decked Out 2 Database"
 assert ROOT.exists(), f"Path not found: {ROOT}"
 
 
@@ -16,9 +16,9 @@ class FileDatabase:
 
     def _data(self):
         if self._data_obj is None:
-            with open(self._path, encoding='utf-8') as fd:
+            with open(self._path, encoding="utf-8") as fd:
                 print("\033[33m--\033[m Loading data:", self._path.relative_to(ROOT))
-                self._data_obj = json.load(fd)     
+                self._data_obj = json.load(fd)
 
         return self._data_obj
 
@@ -27,9 +27,12 @@ class FileDatabase:
 
     def __iter__(self):
         return self._data().__iter__()
-    
+
     def items(self):
         return self._data().items()
+    
+    def get(self):
+        return self._data()
 
 
 def _init():
@@ -40,9 +43,10 @@ def _init():
         parts = path.relative_to(ROOT).parts[:-1]
 
         for part in parts:
-            part = part.upper().lstrip('_')
+            part = part.upper().lstrip("_").replace(" ", "_")
 
             if not hasattr(parent, part):
+
                 class NewParent:
                     Items = []
 
@@ -53,7 +57,7 @@ def _init():
 
             parent = getattr(parent, part)
 
-        name = path.stem.lstrip('_').upper()
+        name = path.stem.lstrip("_").upper()
         data = FileDatabase(path)
         setattr(parent, name, data)
         if hasattr(parent, "Items"):
@@ -61,7 +65,7 @@ def _init():
 
 
 def imread(path):
-    path = Path(__file__).parents[1] / 'Data' / path
+    path = Path(__file__).parents[1] / "Data" / path
     return plt.imread(path)
 
 

@@ -6,8 +6,11 @@ import noxitu_pack_builder.tags
 _OUTPUTS = ContextStorage("outputs", list)
 
 
-def _get_path(call):
-    parts = call.__module__.split(".") + call.__qualname__.split(".")
+def _get_path(call, *, name):
+    if name is None:
+        name = call.__qualname__
+
+    parts = call.__module__.split(".") + name.split(".")
     parts = [part for part in parts if part != "_"]
     return "/".join(parts)
 
@@ -17,13 +20,16 @@ def _get_name(path):
     return f"{parts[0]}:{'/'.join(parts[2:])}"
 
 
-def _output_file(call, *, save, path=None, no_root=False, suffix=None, tags=[]):
+def _output_file(call, *, save, path=None, no_root=False, suffix=None, tags=[], name=None):
     if path is None:
-        path = _get_path(call)
+        path = _get_path(call, name=name)
 
     class OutputFile:
         def __str__(self):
             return _get_name(path)
+
+        def __call__(self):
+            return call()
         
         def save(self, target_path, root):
             if not no_root:

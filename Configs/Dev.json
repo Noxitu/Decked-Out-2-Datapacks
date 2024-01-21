@@ -4,8 +4,9 @@
         "name": "Dev Datapack",
         "description": "Combined Pack for Development",
         "components": [
-            "Audio",
-            "GUI"
+            "Deck Validation",
+            "Ethereal Cards",
+            "-GUI"
         ]
     },
     {
@@ -13,7 +14,7 @@
         "name": "Dev Resource Pack",
         "description": "Combined Pack for Development",
         "components": [
-            "GUI"
+            "Ethereal Cards"
         ]
     }
 ]

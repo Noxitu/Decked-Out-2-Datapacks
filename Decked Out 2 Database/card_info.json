@@ -22,7 +22,7 @@
     },
     "Brilliance": {
       "id": 4,
-      "limit": 3,
+      "limit": 1,
       "rarity": "rare",
       "permanent": false,
       "ethereal": false
