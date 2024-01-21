@@ -1,0 +1,909 @@
+{
+    "ambient.cave_wind": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/cave_wind"
+            }
+        ]
+    },
+    "ambient.hi_cleo": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/hi_cleo"
+            }
+        ]
+    },
+    "ambient.warden_emerge": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/warden_emerge"
+            }
+        ]
+    },
+    "ambient.warden_roar": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/warden_roar"
+            }
+        ]
+    },
+    "cards.adrenaline_rush": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/adrenaline_rush"
+            }
+        ]
+    },
+    "cards.avalanche": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/avalanche"
+            }
+        ]
+    },
+    "cards.beast_sense": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/beast_sense"
+            }
+        ]
+    },
+    "cards.bounding_strides": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/bounding_strides"
+            }
+        ]
+    },
+    "cards.brilliance": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/brilliance"
+            }
+        ]
+    },
+    "cards.cash_cow": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/cash_cow"
+            }
+        ]
+    },
+    "cards.chill_step": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/chill_step"
+            }
+        ]
+    },
+    "cards.cold_snap": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/cold_snap"
+            }
+        ]
+    },
+    "cards.deep_frost": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/deep_frost"
+            }
+        ]
+    },
+    "cards.dungeon_repairs": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/dungeon_repairs"
+            }
+        ]
+    },
+    "cards.eerie_silence": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/eerie_silence"
+            }
+        ]
+    },
+    "cards.ember_seeker": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/ember_seeker"
+            }
+        ]
+    },
+    "cards.evasion": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/evasion"
+            }
+        ]
+    },
+    "cards.eyes_on_the_prize": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/eyes_on_the_prize"
+            }
+        ]
+    },
+    "cards.frost_focus": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/frost_focus"
+            }
+        ]
+    },
+    "cards.haste": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/haste"
+            }
+        ]
+    },
+    "cards.loot_and_scoot": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/loot_and_scoot"
+            }
+        ]
+    },
+    "cards.moment_of_clarity": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/moment_of_clarity"
+            }
+        ]
+    },
+    "cards.nimble_looting": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/nimble_looting"
+            }
+        ]
+    },
+    "cards.pay_to_win": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/pay_to_win"
+            }
+        ]
+    },
+    "cards.pirates_booty": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/pirates_booty"
+            }
+        ]
+    },
+    "cards.quickstep": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/quickstep"
+            }
+        ]
+    },
+    "cards.reckless_charge": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/reckless_charge"
+            }
+        ]
+    },
+    "cards.second_wind": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/second_wind"
+            }
+        ]
+    },
+    "cards.smash_and_grab": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/smash_and_grab"
+            }
+        ]
+    },
+    "cards.sneak": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/sneak"
+            }
+        ]
+    },
+    "cards.sprint": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/sprint"
+            }
+        ]
+    },
+    "cards.stability": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/stability"
+            }
+        ]
+    },
+    "cards.stumble": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/stumble"
+            }
+        ]
+    },
+    "cards.swagger": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/swagger"
+            }
+        ]
+    },
+    "cards.tread_lightly": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/tread_lightly"
+            }
+        ]
+    },
+    "cards.treasure_hunter": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:cards/treasure_hunter"
+            }
+        ]
+    },
+    "events.artifact_retrived": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/artifact_retrived"
+            }
+        ]
+    },
+    "events.card_reveal": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/card_reveal"
+            }
+        ]
+    },
+    "events.deepfrost_tnt": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/deepfrost_tnt"
+            }
+        ]
+    },
+    "events.dungeon_is_ready": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/dungeon_is_ready"
+            }
+        ]
+    },
+    "events.game_over": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/game_over"
+            }
+        ]
+    },
+    "events.heartbeat": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/heartbeat"
+            }
+        ]
+    },
+    "halloween.success": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:halloween/success"
+            }
+        ]
+    },
+    "interactions.difficulty.deadly": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/difficulty/deadly"
+            }
+        ]
+    },
+    "interactions.difficulty.deepfrost": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/difficulty/deepfrost"
+            }
+        ]
+    },
+    "interactions.difficulty.easy": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/difficulty/easy"
+            }
+        ]
+    },
+    "interactions.difficulty.hard": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/difficulty/hard"
+            }
+        ]
+    },
+    "interactions.difficulty.medium": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/difficulty/medium"
+            }
+        ]
+    },
+    "interactions.dungeon_door_open": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/dungeon_door_open"
+            }
+        ]
+    },
+    "interactions.dungeon_taunt": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/dungeon_taunt"
+            }
+        ]
+    },
+    "interactions.ember_shop_open": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/ember_shop_open"
+            }
+        ]
+    },
+    "interactions.ember_shop_opening": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/ember_shop_opening"
+            }
+        ]
+    },
+    "interactions.install_deck": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/install_deck"
+            }
+        ]
+    },
+    "interactions.open_main_door": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/open_main_door"
+            }
+        ]
+    },
+    "interactions.take_your_items": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/take_your_items"
+            }
+        ]
+    },
+    "ambient.cave_gust": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/cave_gust/1"
+            },
+            {
+                "name": "do2:ambient/cave_gust/2"
+            },
+            {
+                "name": "do2:ambient/cave_gust/3"
+            },
+            {
+                "name": "do2:ambient/cave_gust/4"
+            },
+            {
+                "name": "do2:ambient/cave_gust/5"
+            },
+            {
+                "name": "do2:ambient/cave_gust/6"
+            },
+            {
+                "name": "do2:ambient/cave_gust/7"
+            },
+            {
+                "name": "do2:ambient/cave_gust/8"
+            },
+            {
+                "name": "do2:ambient/cave_gust/9"
+            }
+        ]
+    },
+    "ambient.drone_deepfrost": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/drone_deepfrost/1"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/10"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/11"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/12"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/13"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/14"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/15"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/16"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/17"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/18"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/2"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/3"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/4"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/5"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/6"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/7"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/8"
+            },
+            {
+                "name": "do2:ambient/drone_deepfrost/9"
+            }
+        ]
+    },
+    "ambient.drone": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/drone/1"
+            },
+            {
+                "name": "do2:ambient/drone/2"
+            },
+            {
+                "name": "do2:ambient/drone/3"
+            },
+            {
+                "name": "do2:ambient/drone/4"
+            },
+            {
+                "name": "do2:ambient/drone/5"
+            },
+            {
+                "name": "do2:ambient/drone/6"
+            },
+            {
+                "name": "do2:ambient/drone/7"
+            },
+            {
+                "name": "do2:ambient/drone/8"
+            },
+            {
+                "name": "do2:ambient/drone/9"
+            }
+        ]
+    },
+    "ambient.ghostly_whisper": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/ghostly_whisper/1"
+            },
+            {
+                "name": "do2:ambient/ghostly_whisper/2"
+            }
+        ]
+    },
+    "ambient.ice": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/ice/1"
+            },
+            {
+                "name": "do2:ambient/ice/10"
+            },
+            {
+                "name": "do2:ambient/ice/2"
+            },
+            {
+                "name": "do2:ambient/ice/3"
+            },
+            {
+                "name": "do2:ambient/ice/4"
+            },
+            {
+                "name": "do2:ambient/ice/5"
+            },
+            {
+                "name": "do2:ambient/ice/6"
+            },
+            {
+                "name": "do2:ambient/ice/7"
+            },
+            {
+                "name": "do2:ambient/ice/8"
+            },
+            {
+                "name": "do2:ambient/ice/9"
+            }
+        ]
+    },
+    "ambient.metal": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/metal/1"
+            },
+            {
+                "name": "do2:ambient/metal/2"
+            },
+            {
+                "name": "do2:ambient/metal/3"
+            },
+            {
+                "name": "do2:ambient/metal/4"
+            },
+            {
+                "name": "do2:ambient/metal/5"
+            },
+            {
+                "name": "do2:ambient/metal/6"
+            },
+            {
+                "name": "do2:ambient/metal/7"
+            },
+            {
+                "name": "do2:ambient/metal/8"
+            },
+            {
+                "name": "do2:ambient/metal/9"
+            }
+        ]
+    },
+    "ambient.wood": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/wood/1"
+            },
+            {
+                "name": "do2:ambient/wood/2"
+            },
+            {
+                "name": "do2:ambient/wood/3"
+            },
+            {
+                "name": "do2:ambient/wood/4"
+            },
+            {
+                "name": "do2:ambient/wood/5"
+            },
+            {
+                "name": "do2:ambient/wood/6"
+            },
+            {
+                "name": "do2:ambient/wood/7"
+            },
+            {
+                "name": "do2:ambient/wood/8"
+            },
+            {
+                "name": "do2:ambient/wood/9"
+            }
+        ]
+    },
+    "events.clank_blocked": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/clank_blocked/1"
+            },
+            {
+                "name": "do2:events/clank_blocked/2"
+            },
+            {
+                "name": "do2:events/clank_blocked/3"
+            },
+            {
+                "name": "do2:events/clank_blocked/4"
+            },
+            {
+                "name": "do2:events/clank_blocked/5"
+            },
+            {
+                "name": "do2:events/clank_blocked/6"
+            },
+            {
+                "name": "do2:events/clank_blocked/7"
+            },
+            {
+                "name": "do2:events/clank_blocked/8"
+            },
+            {
+                "name": "do2:events/clank_blocked/9"
+            }
+        ],
+        "subtitle": "Clank gets blocked"
+    },
+    "events.hazard_blocked": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/hazard_blocked/1"
+            },
+            {
+                "name": "do2:events/hazard_blocked/2"
+            },
+            {
+                "name": "do2:events/hazard_blocked/3"
+            },
+            {
+                "name": "do2:events/hazard_blocked/4"
+            },
+            {
+                "name": "do2:events/hazard_blocked/5"
+            },
+            {
+                "name": "do2:events/hazard_blocked/6"
+            },
+            {
+                "name": "do2:events/hazard_blocked/7"
+            },
+            {
+                "name": "do2:events/hazard_blocked/8"
+            },
+            {
+                "name": "do2:events/hazard_blocked/9"
+            }
+        ],
+        "subtitle": "Hazard gets blocked"
+    },
+    "events.hazard": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/hazard/1"
+            },
+            {
+                "name": "do2:events/hazard/2"
+            },
+            {
+                "name": "do2:events/hazard/3"
+            },
+            {
+                "name": "do2:events/hazard/4"
+            },
+            {
+                "name": "do2:events/hazard/5"
+            },
+            {
+                "name": "do2:events/hazard/6"
+            },
+            {
+                "name": "do2:events/hazard/7"
+            },
+            {
+                "name": "do2:events/hazard/8"
+            },
+            {
+                "name": "do2:events/hazard/9"
+            }
+        ],
+        "subtitle": "Hazard triggers"
+    },
+    "events.recycle": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:events/recycle/1"
+            },
+            {
+                "name": "do2:events/recycle/2"
+            },
+            {
+                "name": "do2:events/recycle/3"
+            },
+            {
+                "name": "do2:events/recycle/4"
+            },
+            {
+                "name": "do2:events/recycle/5"
+            },
+            {
+                "name": "do2:events/recycle/6"
+            },
+            {
+                "name": "do2:events/recycle/7"
+            },
+            {
+                "name": "do2:events/recycle/8"
+            }
+        ]
+    },
+    "halloween.enterance": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:halloween/enterance/1"
+            },
+            {
+                "name": "do2:halloween/enterance/2"
+            },
+            {
+                "name": "do2:halloween/enterance/3"
+            }
+        ]
+    },
+    "halloween.failure": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:halloween/failure/1"
+            },
+            {
+                "name": "do2:halloween/failure/2"
+            },
+            {
+                "name": "do2:halloween/failure/3"
+            }
+        ]
+    },
+    "interactions.crown_conversion": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/crown_conversion/1"
+            },
+            {
+                "name": "do2:interactions/crown_conversion/2"
+            },
+            {
+                "name": "do2:interactions/crown_conversion/3"
+            },
+            {
+                "name": "do2:interactions/crown_conversion/4"
+            },
+            {
+                "name": "do2:interactions/crown_conversion/5"
+            },
+            {
+                "name": "do2:interactions/crown_conversion/6"
+            },
+            {
+                "name": "do2:interactions/crown_conversion/7"
+            }
+        ]
+    },
+    "interactions.purchase": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:interactions/purchase/1"
+            },
+            {
+                "name": "do2:interactions/purchase/2"
+            },
+            {
+                "name": "do2:interactions/purchase/3"
+            },
+            {
+                "name": "do2:interactions/purchase/4"
+            },
+            {
+                "name": "do2:interactions/purchase/5"
+            },
+            {
+                "name": "do2:interactions/purchase/6"
+            }
+        ]
+    },
+    "ambient.warden_roar_with_cleo": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/warden_roar"
+            },
+            {
+                "name": "do2:ambient/hi_cleo"
+            }
+        ]
+    }
+}
