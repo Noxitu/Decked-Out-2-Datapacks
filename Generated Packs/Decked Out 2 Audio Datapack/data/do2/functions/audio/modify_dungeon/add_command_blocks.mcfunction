@@ -1,50 +1,98 @@
+setblock -551 -55 1921 minecraft:glass
 setblock -551 -55 1921 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.stability master @s"}
+setblock -551 -55 1922 minecraft:glass
 setblock -551 -55 1922 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.sneak master @s"}
+setblock -551 -55 1923 minecraft:glass
 setblock -551 -55 1923 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.ember_seeker master @s"}
+setblock -551 -55 1924 minecraft:glass
 setblock -551 -55 1924 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.eerie_silence master @s"}
+setblock -551 -55 1925 minecraft:glass
 setblock -551 -55 1925 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.treasure_hunter master @s"}
+setblock -551 -55 1926 minecraft:glass
 setblock -551 -55 1926 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.chill_step master @s"}
+setblock -551 -55 1927 minecraft:glass
 setblock -551 -55 1927 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.moment_of_clarity master @s"}
+setblock -551 -55 1928 minecraft:glass
 setblock -551 -55 1928 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.pirates_booty master @s"}
+setblock -546 -55 1921 minecraft:glass
 setblock -546 -55 1921 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.tread_lightly master @s"}
+setblock -546 -55 1922 minecraft:glass
 setblock -546 -55 1922 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -546 -55 1922>"}
+setblock -546 -55 1923 minecraft:glass
 setblock -546 -55 1923 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.frost_focus master @s"}
+setblock -546 -55 1924 minecraft:glass
 setblock -546 -55 1924 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.swagger master @s"}
+setblock -546 -55 1925 minecraft:glass
 setblock -546 -55 1925 minecraft:command_block[facing=south,conditional=false]{Command: "schedule function do2:audio/play/cards_reckless_charge 12t append"}
+setblock -546 -55 1926 minecraft:glass
 setblock -546 -55 1926 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.smash_and_grab master @s"}
+setblock -546 -55 1927 minecraft:glass
 setblock -546 -55 1927 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.pay_to_win master @s"}
+setblock -546 -55 1928 minecraft:glass
 setblock -546 -55 1928 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.adrenaline_rush master @s"}
+setblock -541 -55 1921 minecraft:glass
 setblock -541 -55 1921 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.evasion master @s"}
+setblock -541 -55 1922 minecraft:glass
 setblock -541 -55 1922 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -541 -55 1922>"}
+setblock -541 -55 1923 minecraft:glass
 setblock -541 -55 1923 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.nimble_looting master @s"}
+setblock -541 -55 1924 minecraft:glass
 setblock -541 -55 1924 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.eyes_on_the_prize master @s"}
+setblock -541 -55 1925 minecraft:glass
 setblock -541 -55 1925 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -541 -55 1925>"}
+setblock -541 -55 1926 minecraft:glass
 setblock -541 -55 1926 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.dungeon_repairs master @s"}
+setblock -541 -55 1927 minecraft:glass
 setblock -541 -55 1927 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -541 -55 1927>"}
+setblock -541 -55 1928 minecraft:glass
 setblock -541 -55 1928 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -541 -55 1928>"}
+setblock -536 -55 1921 minecraft:glass
 setblock -536 -55 1921 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.deep_frost master @s"}
+setblock -536 -55 1922 minecraft:glass
 setblock -536 -55 1922 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.quickstep master @s"}
+setblock -536 -55 1923 minecraft:glass
 setblock -536 -55 1923 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.brilliance master @s"}
+setblock -536 -55 1924 minecraft:glass
 setblock -536 -55 1924 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -536 -55 1924>"}
+setblock -536 -55 1925 minecraft:glass
 setblock -536 -55 1925 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -536 -55 1925>"}
+setblock -536 -55 1926 minecraft:glass
 setblock -536 -55 1926 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -536 -55 1926>"}
+setblock -536 -55 1927 minecraft:glass
 setblock -536 -55 1927 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -536 -55 1927>"}
+setblock -536 -55 1928 minecraft:glass
 setblock -536 -55 1928 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.stumble master @s"}
+setblock -531 -55 1921 minecraft:glass
 setblock -531 -55 1921 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -531 -55 1921>"}
+setblock -531 -55 1922 minecraft:glass
 setblock -531 -55 1922 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.loot_and_scoot master @s"}
+setblock -531 -55 1923 minecraft:glass
 setblock -531 -55 1923 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -531 -55 1923>"}
+setblock -531 -55 1924 minecraft:glass
 setblock -531 -55 1924 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.beast_sense master @s"}
+setblock -531 -55 1925 minecraft:glass
 setblock -531 -55 1925 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -531 -55 1925>"}
+setblock -531 -55 1926 minecraft:glass
 setblock -531 -55 1926 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.sprint master @s"}
+setblock -531 -55 1927 minecraft:glass
 setblock -531 -55 1927 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -531 -55 1927>"}
+setblock -531 -55 1928 minecraft:glass
 setblock -531 -55 1928 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.cash_cow master @s"}
+setblock -526 -55 1921 minecraft:glass
 setblock -526 -55 1921 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -526 -55 1921>"}
+setblock -526 -55 1922 minecraft:glass
 setblock -526 -55 1922 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -526 -55 1922>"}
+setblock -526 -55 1923 minecraft:glass
 setblock -526 -55 1923 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -526 -55 1923>"}
+setblock -526 -55 1924 minecraft:glass
 setblock -526 -55 1924 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.avalanche master @s"}
+setblock -526 -55 1925 minecraft:glass
 setblock -526 -55 1925 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.bounding_strides master @s"}
+setblock -526 -55 1926 minecraft:glass
 setblock -526 -55 1926 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.second_wind master @s"}
+setblock -526 -55 1927 minecraft:glass
 setblock -526 -55 1927 minecraft:command_block[facing=south,conditional=false]{Command: "say Triggered unused sound system: <card callout @ -526 -55 1927>"}
+setblock -526 -55 1928 minecraft:glass
 setblock -526 -55 1928 minecraft:command_block[facing=south,conditional=false]{Command: "execute as @a[tag=do2.cmd_sound,distance=..177] at @s run playsound do2:cards.cold_snap master @s"}
 setblock -557 117 1986 minecraft:diamond_block
 setblock -557 118 1986 minecraft:command_block[facing=south,conditional=false]{Command: "execute if block ~ ~-3 ~ minecraft:repeater[powered=true] as @a[tag=do2.cmd_sound,distance=..20] at @s run playsound do2:interactions.difficulty.easy master @s"}
