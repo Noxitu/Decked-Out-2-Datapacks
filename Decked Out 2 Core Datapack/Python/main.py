@@ -10,6 +10,8 @@ import do2.functions.play_sound
 import do2.functions.regrow_berry_bushes
 import do2.functions.replace_audio_systems
 import do2.functions.teleport_mobs
+import do2.functions.gui_replacement.collect_values
+import do2.functions.gui_replacement.display
 import do2.functions.food
 import mcfunction
 
