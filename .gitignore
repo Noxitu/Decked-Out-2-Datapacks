@@ -2,8 +2,11 @@ __pycache__/
 _*.py
 _*.json
 /.vscode
+/.venv
+*.egg-info/
 
 /Install-Packs.ps1
+/Install-Packs-2.ps1
 Deploy.ps1
 *.zip
 
