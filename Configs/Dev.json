@@ -4,11 +4,12 @@
         "name": "Dev Datapack",
         "description": "Combined Pack for Development",
         "components": [
+            "Audio",
             "GUI"
         ]
     },
     {
-        "type": "resource_pack",
+        "type": "-resource_pack",
         "name": "Dev Resource Pack",
         "description": "Combined Pack for Development",
         "components": [

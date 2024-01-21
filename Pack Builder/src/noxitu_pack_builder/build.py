@@ -43,6 +43,10 @@ def _build_pack(config):
         @noxpack.copy(path="pack.png", no_root=True)
         def _():
             return root / "pack.png"
+        
+        if config["type"] == "datapack":
+            noxitu_pack_builder.tags.get_tag("minecraft:load")
+            noxitu_pack_builder.tags.get_tag("minecraft:tick")
 
         content_root = {
             "datapack": "data",
@@ -55,6 +59,9 @@ def _build_pack(config):
         }[config["type"]]
 
         for component_name in config["components"]:
+            if component_name.startswith("-"):
+                continue
+
             component_root = components_root / component_name
             
             for png_path in component_root.rglob("*.png"):
@@ -71,6 +78,8 @@ def main():
     configs = load_json(config_path)
 
     for config in configs:
+        if any(config[key].startswith("-") for key in ("name", "type")):
+            continue
         _build_pack(config)
 
 

@@ -1,0 +1,17 @@
+[
+    {
+        "type": "datapack",
+        "name": "DO2 Datapack",
+        "description": "Decked Out 2 Datapack",
+        "components": [
+        ]
+    },
+    {
+        "type": "resource_pack",
+        "name": "DO2 Resource Pack",
+        "description": "Decked Out 2 Resource Pack",
+        "components": [
+            "Audio"
+        ]
+    }
+]

@@ -6,16 +6,6 @@
         "command_block": "-619 31 1920",
         "air": "-618 31 1918 -618 33 1920"
     },
-    
-    {
-        "id": "open_main_door",
-        "sound": "interactions.open_main_door",
-        "at": "-543 114 1980",
-        "range": 32,
-        "command_block": "-539 109 1977",
-        "delay": 14,
-        "air": "-539 109 1978 -539 110 1979"
-    },
     {
         "id": "level04_door_open",
         "sound": "events.deepfrost_tnt",
@@ -24,6 +14,12 @@
         "command_block": "-637 -20 1894",
         "delay": 16,
         "air": "-636 -21 1894 -634 -19 1894"
+    },
+    {
+        "sound": "events.artifact_retrived",
+        "range": 220,
+        "command_block": "-525 -31 1936",
+        "air": "-525 -31 1937 -525 -29 1940"
     }
 ]
 

@@ -1,5 +1,8 @@
 from noxpack import mcfunction
 
+SCOREBOARD = "do2.gui"
+STORAGE = "do2:gui_text"
+
 
 def _one(name, symbol, value, value_match=None):
     if value_match is None:
@@ -10,8 +13,8 @@ def _one(name, symbol, value, value_match=None):
     back = "\uE01A" * value
 
     yield f"""
-        execute if score ${name} do2.gui matches {value_match}
-                run data modify storage tmp tmp.{name}
+        execute if score ${name} {SCOREBOARD} matches {value_match}
+                run data modify storage {STORAGE} levels.{name}
                     set value "{symbols}{back}"
         """
 
@@ -27,8 +30,8 @@ def _card(value, value_match=None):
     back = (value + 1) // 2 * "\uE01B"
 
     yield f"""
-        execute if score $cards do2.gui matches {value_match}
-                run data modify storage tmp tmp.cards
+        execute if score $cards {SCOREBOARD} matches {value_match}
+                run data modify storage {STORAGE} levels.cards
                     set value "{symbols}{back}"
         """
 
@@ -38,9 +41,10 @@ def _update_category(name, symbol):
         yield from _one(name, symbol, i)
     yield from _one(name, symbol, 15, "15..")
 
+
 @mcfunction
 def update():
-    yield "data modify storage tmp tmp set value {}"
+    yield f"data modify storage {STORAGE} levels set value {{}}"
 
     yield from _update_category("embers", 1)
     yield from _update_category("treasure", 2)
@@ -51,6 +55,7 @@ def update():
         yield from _card(i)
     yield from _card(40, "40..")
 
+# @mcfunction
 @mcfunction(tags=["minecraft:tick"])
 def _():
     offset_left = 6 * "\uE00A"
@@ -63,15 +68,15 @@ def _():
     # padding = ""
 
     yield f"""title @a actionbar [
+            {{"text": "", "font": "do2:gui"}},
             "{offset}",
             "{padding}",
             "\uE002\uE01C\uE004\uE01D",
-            {{"nbt": "tmp.embers", "storage": "tmp"}},
-            {{"nbt": "tmp.treasure", "storage": "tmp"}},
-            {{"nbt": "tmp.hazard_block", "storage": "tmp"}},
-            {{"nbt": "tmp.clank_block", "storage": "tmp"}},
+            {{"nbt": "levels.embers", "storage": "{STORAGE}"}},
+            {{"nbt": "levels.treasure", "storage": "{STORAGE}"}},
+            {{"nbt": "levels.hazard_block", "storage": "{STORAGE}"}},
+            {{"nbt": "levels.clank_block", "storage": "{STORAGE}"}},
             "\uE01E",
-            {{"nbt": "tmp.cards", "storage": "tmp"}},
-            "\uE01F",
-            "|"
+            {{"nbt": "levels.cards", "storage": "{STORAGE}"}},
+            "\uE01F"
         ]"""

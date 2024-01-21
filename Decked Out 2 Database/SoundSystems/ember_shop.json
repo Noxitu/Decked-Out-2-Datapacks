@@ -1,11 +1,48 @@
 [
-    {
-        "sound": "interactions.crown_conversion",
-        "range": 30,
-        "command_block": "-650 -16 1981",
-        "remove": [
-            "-650 -16 1982 -650 -15 1983",
-            {"area": "-650 -16 1982", "block": "FILLER"}
-        ]
-    }
+  {
+    "sound": "interactions.ember_shop_open",
+    "range": 50,
+    "command_block": "-629 -20 1987",
+    "remove": "-628 -21 1985 -628 -19 1987"
+  },
+
+  {
+    "sound": "interactions.ember_shop_opening",
+    "range": 50,
+    "command_block": "-643 -22 1981",
+    "remove": { "area": "-644 -21 1980", "block": "FILLER" }
+  },
+
+  {
+    "-comment": "Left Card Reveal",
+    "sound": "events.card_reveal",
+    "range": 32,
+    "command_block": "-627 -25 2004",
+    "remove": ["-627 -24 2005 -629 -23 2006", "-627 -23 2004"]
+  },
+  {
+    "-comment": "Right Card Reveal",
+    "sound": "events.card_reveal",
+    "range": 32,
+    "command_block": "-648 -24 2002",
+    "remove": ["-647 -24 2001 -645 -23 2000", "-647 -23 2002"]
+  },
+  {
+    "sound": "interactions.purchase",
+    "range": 50,
+    "command_block": "-637 -22 2001",
+    "remove": ["-636 -22 2002 -636 -20 2004", "-636 -21 2000"]
+  },
+  {
+    "sound": "interactions.crown_conversion",
+    "range": 30,
+    "command_block": "-650 -16 1981",
+    "remove": ["-650 -16 1982 -650 -15 1983", { "area": "-650 -16 1982", "block": "FILLER" }]
+  },
+  {
+    "sound": "interactions.dungeon_taunt",
+    "range": 50,
+    "command_block": "-644 -19 1988",
+    "remove": "-645 -21 1989 -644 -19 1991"
+  }
 ]

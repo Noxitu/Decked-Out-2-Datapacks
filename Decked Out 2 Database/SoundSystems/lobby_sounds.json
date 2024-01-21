@@ -1,0 +1,39 @@
+[
+  {
+    "sound": "events.dungeon_is_ready",
+    "range": 400,
+    "command_block": "-539 116 1968",
+    "remove": "-538 116 1967 -534 119 1967"
+  },
+  {
+    "id": "open_main_door",
+    "sound": "interactions.open_main_door",
+    "at": "-543 114 1980",
+    "range": 32,
+    "command_block": "-539 109 1977",
+    "delay": 14,
+    "remove": "-539 109 1978 -539 110 1979"
+  },
+  {
+    "sound": "events.game_over",
+    "range": 48,
+    "command_block": "-551 119 1970",
+    "remove": "-553 119 1971 -552 121 1971"
+  },
+
+  {
+    "sound": "interactions.take_your_items",
+    "range": 32,
+    "command_block": "-547 119 1992",
+    "remove": "-550 118 1993 -546 119 1993"
+  }
+
+  ,
+
+  {
+    "sound": "interactions.purchase",
+    "range": 50,
+    "command_block": "-502 105 1978",
+    "remove": "-504 104 1977 -502 106 1981"
+  }
+]

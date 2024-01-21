@@ -1,52 +1,68 @@
 [
-    {
-        "sound": "ambient.wood",
-        "range": 20,
-        "command_block": "-655 -17 1884",
-        "remove": "-654 -17 1884 -653 -16 1884"
-    },
-    {
-        "sound": "ambient.metal",
-        "range": 80,
-        "command_block": "-602 -21 1928",
-        "remove": "-602 -21 1927 -600 -19 1927"
-    },
-    {
-        "sound": "ambient.wood",
-        "range": 20,
-        "command_block": "-657 -10 1928",
-        "remove": "-660 -10 1927 -658 -8 1927"
-    },
-    {
-        "sound": "ambient.wood",
-        "range": 20,
-        "command_block": "-523 26 1983",
-        "remove": "-524 26 1982 -522 28 1982"
-    },
-    {
-        "sound": "ambient.ice",
-        "range": 41,
-        "command_block": "-527 65 2001",
-        "remove": ["-528 65 1999 -526 66 2000", "-528 66 2001"]
-    },
-    {
-        "sound": "ambient.ice",
-        "range": 38,
-        "command_block": "-557 64 1961",
-        "remove": ["-560 64 1959 -558 65 1960", "-558 65 1961"]
-    },
-    {
-        "sound": "ambient.ice",
-        "range": 47,
-        "command_block": "-596 65 2000",
-        "remove": ["-599 65 2001 -597 66 2002", "-597 66 2000"]
-    },
-    {
-        "sound": "ambient.wood",
-        "range": 20,
-        "command_block": "-587 -4 1877",
-        "remove": "-589 -4 1878 -587 -2 1878"
-    }
+  {
+    "sound": "ambient.drone",
+    "range": 180,
+    "command_block": "-533 -57 1915",
+    "remove": ["-532 -59 1915 -535 -58 1919", "-533 -57 1917 -535 -56 1919"]
+  },
+  {
+    "sound": "ambient.drone_deepfrost",
+    "range": 176,
+    "command_block": "-531 -57 1912",
+    "remove": ["-531 -57 1911", "-531 -59 1911 -527 -58 1914", "-529 -57 1912 -527 -57 1914"]
+  },
+  {
+    "sound": "ambient.cave_gust",
+    "range": 176,
+    "command_block": "-537 -59 1919",
+    "remove": ["-539 -59 1917 -538 -58 1921", "-537 -58 1919"]
+  },
+  {
+    "sound": "ambient.wood",
+    "range": 20,
+    "command_block": "-655 -17 1884",
+    "remove": "-654 -17 1884 -653 -16 1884"
+  },
+  {
+    "sound": "ambient.metal",
+    "range": 80,
+    "command_block": "-602 -21 1928",
+    "remove": "-602 -21 1927 -600 -19 1927"
+  },
+  {
+    "sound": "ambient.wood",
+    "range": 20,
+    "command_block": "-657 -10 1928",
+    "remove": "-660 -10 1927 -658 -8 1927"
+  },
+  {
+    "sound": "ambient.wood",
+    "range": 20,
+    "command_block": "-523 26 1983",
+    "remove": "-524 26 1982 -522 28 1982"
+  },
+  {
+    "sound": "ambient.ice",
+    "range": 41,
+    "command_block": "-527 65 2001",
+    "remove": ["-528 65 1999 -526 66 2000", "-528 66 2001"]
+  },
+  {
+    "sound": "ambient.ice",
+    "range": 38,
+    "command_block": "-557 64 1961",
+    "remove": ["-560 64 1959 -558 65 1960", "-558 65 1961"]
+  },
+  {
+    "sound": "ambient.ice",
+    "range": 47,
+    "command_block": "-596 65 2000",
+    "remove": ["-599 65 2001 -597 66 2002", "-597 66 2000"]
+  },
+  {
+    "sound": "ambient.wood",
+    "range": 20,
+    "command_block": "-587 -4 1877",
+    "remove": "-589 -4 1878 -587 -2 1878"
+  }
 ]
-
-

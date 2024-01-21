@@ -1,0 +1,18 @@
+[
+    {
+        "type": "datapack",
+        "name": "Decked Out 2 Audio Datapack",
+        "description": "Decked Out 2 Audio ported to use /playsound",
+        "components": [
+            "Audio"
+        ]
+    },
+    {
+        "type": "resource_pack",
+        "name": "Decked Out 2 Audio Resource Pack",
+        "description": "Decked Out 2 Audio ported to use /playsound",
+        "components": [
+            "Audio"
+        ]
+    }
+]

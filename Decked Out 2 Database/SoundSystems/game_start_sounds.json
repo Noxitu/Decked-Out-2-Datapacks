@@ -1,6 +1,12 @@
 [
   {
-    "id": "ambient.cave_wind",
+    "sound": "interactions.install_deck",
+    "range": 20,
+    "command_block": "-569 113 1978",
+    "remove": "-570 113 1980 -569 115 1983"
+  },
+  {
+    "id": "ambient_cave_wind",
     "delay": 12,
     "sound": "ambient.cave_wind",
     "range": 70,
@@ -10,7 +16,7 @@
   {
     "sound": "ambient.warden_emerge",
     "range": 50,
-    "command_block": "-575 88 1938",
+    "command_block": "-575 88 1939",
     "remove": ["-579 88 1938 -577 90 1938", { "area": "-577 88 1938", "block": "FILLER" }]
   },
   {
