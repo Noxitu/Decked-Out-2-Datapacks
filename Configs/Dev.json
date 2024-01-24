@@ -4,17 +4,18 @@
         "name": "Dev Datapack",
         "description": "Combined Pack for Development",
         "components": [
-            "Deck Validation",
-            "Ethereal Cards",
-            "-GUI"
+            "-Deck Validation",
+            "-Ethereal Cards",
+            "GUI"
         ]
     },
     {
-        "type": "-resource_pack",
+        "type": "resource_pack",
         "name": "Dev Resource Pack",
         "description": "Combined Pack for Development",
         "components": [
-            "Ethereal Cards"
+            "-Ethereal Cards",
+            "-GUI"
         ]
     }
 ]

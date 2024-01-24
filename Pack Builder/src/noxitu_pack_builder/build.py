@@ -65,9 +65,13 @@ def _build_pack(config):
             component_root = components_root / component_name
             
             for png_path in component_root.rglob("*.png"):
+                if any(part.startswith("_") for part in png_path.parts):
+                    continue
                 _create_copy(png_path, component_root)
 
             for py_path in component_root.rglob("*.py"):
+                if any(part.startswith("_") for part in py_path.parts):
+                    continue
                 _import(py_path, component_root)
 
         noxitu_pack_builder.output_file.save_outputs(output_root, root=content_root)

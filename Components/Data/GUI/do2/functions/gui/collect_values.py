@@ -62,7 +62,7 @@ def init():
                 }}
         """
 
-    yield f"""schedule function {update_scoreboard} 3s replace"""
+    yield f"""schedule function {update_scoreboard} 1t replace"""
 
 
 @mcfunction
@@ -83,10 +83,18 @@ def update_scoreboard():
 
     yield from _get_count("$cards", "-525 52 1872")
 
+    # # Tmp:
+    # yield from _get_count("$embers", "-523 103 2077")
+    # yield from _get_count("$treasure", "-523 103 2078")
+    # yield from _get_count("$hazard_block", "-523 103 2079")
+    # yield from _get_count("$clank_block", "-523 103 2080")
+    # yield from _get_count("$cards", "-523 103 2081")
+    
+
 
     # yield from _set_level("$level")
 
-    yield f"schedule function {update_scoreboard} 3s replace"
+    yield f"schedule function {update_scoreboard} 4t replace"
 
     from .display import update
     yield f"function {update}"

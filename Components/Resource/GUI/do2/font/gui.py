@@ -1,21 +1,14 @@
 from noxpack import json
+import numpy as np
 
 
-def _space(size, character=None):
-    if character is None:
-        base = {
-            False: "\uEB00",
-            True: "\uEA00",
-        }[size > 0]
-        encoded_size = 16 * (abs(size) // 10) + abs(size) % 10
-        character = chr(ord(base) + encoded_size)
-
+def _space(code, size):
     return {
         "type": "bitmap",
         "file": "do2:gui/empty.png",
         "ascent": -65535,
-        "height": size - 1,
-        "chars": [character],
+        "height": size - (1 if size > 0 else 2),
+        "chars": [chr(code)],
     }
 
 
@@ -28,50 +21,61 @@ def _bitmap(name, ascent, height, chars):
         "chars": [chars],
     }
 
+
+def generate_gui_font():
+    for level in range(1, 5):
+        MAP_BORDER_SIZE = 434
+        MAP_SIZE = 392
+
+        base_code = 0xE000 + level * 0x100
+        screen2font = 1 / level
+
+        # Y calculated from bottom of screen
+        MAP_Y = 525
+        ACTION_BAR_Y = 65 / screen2font
+
+        def px(size):
+            return int(np.round(size * screen2font))
+
+        def bitmap(name, ascent, height, *codes):
+            chars = "".join(chr(base_code + code) for code in codes)
+            return _bitmap(name, px(ascent), px(height), chars)
+
+        # print("need ascent", MAP_Y - ACTION_BAR_Y)
+        map_ascent = min(MAP_SIZE, MAP_Y - ACTION_BAR_Y)
+        border_ascent = map_ascent + (MAP_BORDER_SIZE - MAP_SIZE) / 2
+
+        if border_ascent > MAP_BORDER_SIZE:
+            reduce = border_ascent - MAP_BORDER_SIZE
+            map_ascent -= reduce
+            border_ascent -= reduce
+
+        args = border_ascent, MAP_BORDER_SIZE
+
+        yield bitmap("map_blue", *args, 0x10)
+        yield bitmap("map", *args, 0x11)
+
+        args = map_ascent, MAP_SIZE
+
+        yield bitmap("gui_water", *args, 0x20)
+        yield bitmap("gui_transparent", *args, 0x21)
+
+        yield bitmap("ticks", *args, *range(0x31, 0x35), *range(0x41, 0x45))
+        yield bitmap("card_ticks", *args, *range(0x51, 0x57))
+
+
 @json
 def _():
-    space_left = [_space(-size) for size in range(100)]
-    space_right = [_space(size) for size in range(100)]
+    space_left = []
+    space_right = []
+
+    implemented = list(range(1, 33)) + [64, 128, 255]
+    space_left = [_space(0xEB00 + size, -size) for size in implemented]
+    space_right = [_space(0xEA00 + size, size) for size in implemented]
 
     return {
         "providers": [
-            # GUI Level 2 - Can't figure out some subpixel alignments :/
-            # _bitmap("map_background", 200, 213, "\uE001"),
-            # _bitmap("map_blue", 200, 213, "\uE002"),
-            # _bitmap("water_gui", 190, 192, "\uE003"),
-            # _bitmap("empty_gui", 190, 192, "\uE004"),
-            # _bitmap("ticks", 190, 192, "\uE011\uE012\uE013\uE014"),
-            # _bitmap("card_ticks", 190, 192, "\uE015\uE016\uE017\uE018"),
-            # _space(-3.9, "\uE019"),
-            # _space(-160, "\uE00A"), # 1/6th of Left Offset
-            # _space(160, "\uE00B"), # 1/6th of Right Offset
-            # _space(120, "\uE00C"), # Left Padding
-            # _space(-165, "\uE00D"), # 1/3th of Right Padding
-            # _space(-10, "\uE01A"), # Step back tick
-            # _space(-5, "\uE01B"),  # Step back card tick
-            # _space(-205, "\uE01C"),  # From end of map border to start of map content
-            # _space(-149, "\uE01D"),  # From end of map content to start of ticks
-            # _space(43, "\uE01E"),  # From start of ticks to start of cards
-            # _space(-67, "\uE01F"),  # From start of cards to start of map border
-
-            # GUI Level 3
-            _bitmap("map_background", 107, 142, "\uE001"),
-            _bitmap("map_blue", 107, 142, "\uE002"),
-            _bitmap("water_gui", 100, 128, "\uE003"),
-            _bitmap("empty_gui", 100, 128, "\uE004"),
-            _bitmap("ticks", 100, 128, "\uE011\uE012\uE013\uE014"),
-            _bitmap("card_ticks", 100, 128, "\uE015\uE016\uE017\uE018"),
-            _space(-106, "\uE00A"), # 1/6th of Left Offset
-            _space(106, "\uE00B"), # 1/6th of Right Offset
-            _space(80, "\uE00C"), # Left Padding
-            _space(-109, "\uE00D"), # 1/3th of Right Padding
-            _space(-7, "\uE01A"), # Step back tick
-            _space(-4, "\uE01B"),  # Step back card tick
-            _space(-137, "\uE01C"),  # From end of map border to start of map content
-            _space(-100, "\uE01D"),  # From end of map content to start of ticks
-            _space(29, "\uE01E"),  # From start of ticks to start of cards
-            _space(-67, "\uE01F"),  # From start of cards to start of map border
-          
+            *generate_gui_font(),
             *space_left,
             *space_right,
         ]

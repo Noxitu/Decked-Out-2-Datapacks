@@ -1,82 +1,97 @@
 from noxpack import mcfunction
 
 SCOREBOARD = "do2.gui"
-STORAGE = "do2:gui_text"
+STORAGE = "do2:gui"
 
 
-def _one(name, symbol, value, value_match=None):
-    if value_match is None:
-        value_match = value
+@mcfunction(tags=["minecraft:load"])
+def init_storage():
+    yield f"""data modify storage {STORAGE} CurrentLevels set value {{embers: -1, treasure: -1, hazard_block: -1, clank_block: -1, cards: -1}}"""
 
-    symbol = chr(ord("\uE010") + symbol)
-    symbols = value * symbol
-    back = "\uE01A" * value
-
-    yield f"""
-        execute if score ${name} {SCOREBOARD} matches {value_match}
-                run data modify storage {STORAGE} levels.{name}
-                    set value "{symbols}{back}"
-        """
+    for i in range(1, 5):
+        yield f"""give Noxitu minecraft:paper{{
+            display: {{
+                Name: '"GUI Level {i}"'
+            }},
+            Do2GuiLevel: {i}
+        }}"""
 
 
-def _card(value, value_match=None):
-    if value_match is None:
-        value_match = value
+def _create_update(name):
+    @mcfunction(name=f"update_{name}")
+    def _():
+        yield f"""
+            execute store result storage {STORAGE} CurrentLevels.{name} int 1
+                    run scoreboard players get #current {SCOREBOARD}
+            """
+        
+        n = {"cards": 40}.get(name, 15)
 
-    symbols = (["\uE015", "\uE01B\uE016"] * 5 + ["\uE017", "\uE01B\uE018"] * 5)
-    symbols *= 2
-    symbols = symbols[:value]
-    symbols = "".join(symbols)
-    back = (value + 1) // 2 * "\uE01B"
+        for i in range(n+1):
+            yield f"""
+                execute if score #current {SCOREBOARD} matches {i}
+                        run data modify storage {STORAGE} Text.{name}
+                            set from storage {STORAGE} Text.{name}{i}
+                """
 
-    yield f"""
-        execute if score $cards {SCOREBOARD} matches {value_match}
-                run data modify storage {STORAGE} levels.cards
-                    set value "{symbols}{back}"
-        """
-
-
-def _update_category(name, symbol):
-    for i in range(15):
-        yield from _one(name, symbol, i)
-    yield from _one(name, symbol, 15, "15..")
-
+for name in ["embers", "treasure", "hazard_block", "clank_block", "cards"]:
+    _create_update(name)
 
 @mcfunction
 def update():
-    yield f"data modify storage {STORAGE} levels set value {{}}"
-
-    yield from _update_category("embers", 1)
-    yield from _update_category("treasure", 2)
-    yield from _update_category("hazard_block", 3)
-    yield from _update_category("clank_block", 4)
-
-    for i in range(40):
-        yield from _card(i)
-    yield from _card(40, "40..")
-
-# @mcfunction
-@mcfunction(tags=["minecraft:tick"])
-def _():
-    offset_left = 6 * "\uE00A"
-    offset_right = 6 * "\uE00B"
-    padding_left = "\uE00C"
-    padding_right = 3 * "\uE00D"
-
-    offset, padding = offset_left, padding_left
-    # offset, padding = offset_right, padding_right
-    # padding = ""
-
-    yield f"""title @a actionbar [
+    for name in ["embers", "treasure", "hazard_block", "clank_block", "cards"]:
+        max_level = {"cards": 40}.get(name, 15)
+        yield f"""
+            scoreboard players operation 
+                #current {SCOREBOARD} = ${name} {SCOREBOARD}
+            """
+        
+        yield f"""
+            execute if score #current {SCOREBOARD} matches {max_level+1}..
+                    run scoreboard players set #current {SCOREBOARD} {max_level}
+            """
+        
+        yield f"""
+            execute store result score #previous {SCOREBOARD}
+                    run data get storage {STORAGE} CurrentLevels.{name}
+            """
+        
+        yield f"""
+            execute unless score #current {SCOREBOARD} = #previous {SCOREBOARD}
+                    run function do2:gui/display/update_{name}
+            """
+        
+def _create_level(level):
+    @mcfunction(name=f"gui{level}.check_player")
+    def check_player():
+        yield f"""title @s actionbar [
             {{"text": "", "font": "do2:gui"}},
-            "{offset}",
-            "{padding}",
-            "\uE002\uE01C\uE004\uE01D",
-            {{"nbt": "levels.embers", "storage": "{STORAGE}"}},
-            {{"nbt": "levels.treasure", "storage": "{STORAGE}"}},
-            {{"nbt": "levels.hazard_block", "storage": "{STORAGE}"}},
-            {{"nbt": "levels.clank_block", "storage": "{STORAGE}"}},
-            "\uE01E",
-            {{"nbt": "levels.cards", "storage": "{STORAGE}"}},
-            "\uE01F"
+            {{"nbt": "Text.offset.Level{level}", "storage": "{STORAGE}"}},
+            {{"nbt": "Text.map.Level{level}", "storage": "{STORAGE}"}},
+            {{"nbt": "Text.embers.Level{level}", "storage": "{STORAGE}"}},
+            {{"nbt": "Text.treasure.Level{level}", "storage": "{STORAGE}"}},
+            {{"nbt": "Text.hazard_block.Level{level}", "storage": "{STORAGE}"}},
+            {{"nbt": "Text.clank_block.Level{level}", "storage": "{STORAGE}"}},
+            {{"nbt": "Text.cards.Level{level}", "storage": "{STORAGE}"}}
         ]"""
+
+    @mcfunction(tags=["minecraft:tick"], name=f"gui{level}.invoke")
+    def _():
+        yield f"""
+            execute unless data storage {STORAGE} Text.embers
+                    run return 0
+            """
+
+        yield f"""
+            execute as @a[nbt={{
+                        SelectedItem: {{
+                            tag:{{
+                                Do2GuiLevel: {level}
+                            }}
+                        }}
+                    }}] 
+                    run function {check_player}
+            """
+
+for level in range(1, 5):
+    _create_level(level)
