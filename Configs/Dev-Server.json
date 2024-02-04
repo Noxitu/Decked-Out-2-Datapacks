@@ -1,0 +1,24 @@
+[
+    {
+        "type": "datapack",
+        "name": "Dev Server Datapack",
+        "description": "DO2 Experimental Datapack",
+        "components": [
+            "-Deck Validation",
+            "-Ethereal Cards",
+            "-GUI",
+            "-Run Summary",
+            "-Training"
+        ]
+    },
+    {
+        "type": "resource_pack",
+        "name": "Dev Server Resource Pack",
+        "description": "DO2 Experimental Datapack",
+        "components": [
+            "-Ethereal Cards",
+            "Font Icons",
+            "GUI"
+        ]
+    }
+]

@@ -72,7 +72,11 @@ def _build_pack(config):
             for py_path in component_root.rglob("*.py"):
                 if any(part.startswith("_") for part in py_path.parts):
                     continue
-                _import(py_path, component_root)
+                try:
+                    _import(py_path, component_root)
+                except Exception:
+                    print("\033[31m::\033[m    Failed: ", py_path)
+                    raise
 
         noxitu_pack_builder.output_file.save_outputs(output_root, root=content_root)
 

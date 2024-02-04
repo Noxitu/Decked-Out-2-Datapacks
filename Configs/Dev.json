@@ -2,19 +2,27 @@
     {
         "type": "datapack",
         "name": "Dev Datapack",
-        "description": "Combined Pack for Development",
+        "description": "Dev Datapack",
         "components": [
-            "-Deck Validation",
+            "-Audio",
+            "-Config",
+            "Deck Validation",
             "-Ethereal Cards",
-            "GUI"
+            "-GUI",
+            "-Run Summary",
+            "-Training",
+            "-Warden Anger"  
         ]
     },
     {
         "type": "resource_pack",
         "name": "Dev Resource Pack",
-        "description": "Combined Pack for Development",
+        "description": "Dev Resource Pack",
         "components": [
+            "-Dungeon Logs",
+            "More Eggs",
             "-Ethereal Cards",
+            "-Font Icons",
             "-GUI"
         ]
     }
